@@ -1,0 +1,68 @@
+2025-01-06 10:55:40,402 - pika.adapters.utils.selector_ioloop_adapter - ERROR - Address resolution failed: gaierror(-2, 'Name or service not known')
+2025-01-06 10:55:40,402 - pika.adapters.utils.connection_workflow - ERROR - getaddrinfo failed: gaierror(-2, 'Name or service not known').
+2025-01-06 10:55:40,403 - pika.adapters.utils.connection_workflow - ERROR - AMQP connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None.
+2025-01-06 10:55:40,403 - pika.adapters.utils.connection_workflow - ERROR - AMQPConnectionWorkflow - reporting failure: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None
+2025-01-06 10:55:40,403 - pika.adapters.blocking_connection - ERROR - Connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - gaierror(-2, 'Name or service not known'); first exception - None
+2025-01-06 10:55:40,403 - pika.adapters.blocking_connection - ERROR - Error in _create_connection().
+Traceback (most recent call last):
+  File "/home/sushant/Desktop/normal/try 7 - python/venv/lib/python3.12/site-packages/pika/adapters/blocking_connection.py", line 451, in _create_connection
+    raise self._reap_last_connection_workflow_error(error)
+  File "/home/sushant/Desktop/normal/try 7 - python/venv/lib/python3.12/site-packages/pika/adapters/utils/selector_ioloop_adapter.py", line 565, in _resolve
+    result = socket.getaddrinfo(self._host, self._port, self._family,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+2025-01-06 10:55:40,405 - __main__ - ERROR - Connection attempt 1 failed: [Errno -2] Name or service not known
+2025-01-06 10:56:30,629 - pika.adapters.utils.connection_workflow - INFO - Pika version 1.3.2 connecting to ('10.0.24.198', 5672)
+2025-01-06 10:56:30,630 - pika.adapters.utils.io_services_utils - INFO - Socket connected: <socket.socket fd=7, family=2, type=1, proto=6, laddr=('10.0.24.198', 39742), raddr=('10.0.24.198', 5672)>
+2025-01-06 10:56:30,630 - pika.adapters.utils.connection_workflow - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x776591a4ddc0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x776591a4ddc0> params=<ConnectionParameters host=10.0.24.198 port=5672 virtual_host=/ ssl=False>>).
+2025-01-06 10:56:30,633 - pika.adapters.utils.io_services_utils - INFO - Aborting transport connection: state=1; <socket.socket fd=7, family=2, type=1, proto=6, laddr=('10.0.24.198', 39742), raddr=('10.0.24.198', 5672)>
+2025-01-06 10:56:30,633 - pika.adapters.utils.io_services_utils - INFO - _AsyncTransportBase._initate_abort(): Initiating abrupt asynchronous transport shutdown: state=1; error=None; <socket.socket fd=7, family=2, type=1, proto=6, laddr=('10.0.24.198', 39742), raddr=('10.0.24.198', 5672)>
+2025-01-06 10:56:30,633 - pika.adapters.utils.io_services_utils - INFO - Deactivating transport: state=1; <socket.socket fd=7, family=2, type=1, proto=6, laddr=('10.0.24.198', 39742), raddr=('10.0.24.198', 5672)>
+2025-01-06 10:56:30,633 - pika.connection - INFO - AMQP stack terminated, failed to connect, or aborted: opened=False, error-arg=None; pending-error=ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'
+2025-01-06 10:56:30,633 - pika.connection - ERROR - Connection closed while authenticating indicating a probable authentication error
+2025-01-06 10:56:30,633 - pika.connection - INFO - Connection setup terminated due to ProbableAuthenticationError: Client was disconnected at a connection stage indicating a probable authentication error: ("ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'",)
+2025-01-06 10:56:30,633 - pika.adapters.utils.connection_workflow - ERROR - AMQPConnector - reporting failure: AMQPConnectorAMQPHandshakeError: ProbableAuthenticationError: Client was disconnected at a connection stage indicating a probable authentication error: ("ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'",)
+2025-01-06 10:56:30,634 - pika.adapters.utils.connection_workflow - ERROR - AMQP connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - AMQPConnectorAMQPHandshakeError: ProbableAuthenticationError: Client was disconnected at a connection stage indicating a probable authentication error: ("ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'",); first exception - None.
+2025-01-06 10:56:30,634 - pika.adapters.utils.connection_workflow - ERROR - AMQPConnectionWorkflow - reporting failure: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - AMQPConnectorAMQPHandshakeError: ProbableAuthenticationError: Client was disconnected at a connection stage indicating a probable authentication error: ("ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'",); first exception - None
+2025-01-06 10:56:30,634 - pika.adapters.utils.io_services_utils - INFO - Closing transport socket and unlinking: state=3; <socket.socket fd=7, family=2, type=1, proto=6, laddr=('10.0.24.198', 39742), raddr=('10.0.24.198', 5672)>
+2025-01-06 10:56:30,634 - pika.adapters.blocking_connection - ERROR - Connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - AMQPConnectorAMQPHandshakeError: ProbableAuthenticationError: Client was disconnected at a connection stage indicating a probable authentication error: ("ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'",); first exception - None
+2025-01-06 10:56:30,634 - pika.adapters.blocking_connection - ERROR - Error in _create_connection().
+Traceback (most recent call last):
+  File "/home/sushant/Desktop/normal/try 7 - python/venv/lib/python3.12/site-packages/pika/adapters/blocking_connection.py", line 451, in _create_connection
+    raise self._reap_last_connection_workflow_error(error)
+pika.exceptions.ProbableAuthenticationError: ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'
+2025-01-06 10:56:30,635 - __main__ - ERROR - Connection attempt 1 failed: ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'
+2025-01-06 10:57:45,024 - pika.connection - [ERROR] - Connection closed while authenticating indicating a probable authentication error
+2025-01-06 10:57:45,024 - pika.adapters.utils.connection_workflow - [ERROR] - AMQPConnector - reporting failure: AMQPConnectorAMQPHandshakeError: ProbableAuthenticationError: Client was disconnected at a connection stage indicating a probable authentication error: ("ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'",)
+2025-01-06 10:57:45,024 - pika.adapters.utils.connection_workflow - [ERROR] - AMQP connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - AMQPConnectorAMQPHandshakeError: ProbableAuthenticationError: Client was disconnected at a connection stage indicating a probable authentication error: ("ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'",); first exception - None.
+2025-01-06 10:57:45,024 - pika.adapters.utils.connection_workflow - [ERROR] - AMQPConnectionWorkflow - reporting failure: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - AMQPConnectorAMQPHandshakeError: ProbableAuthenticationError: Client was disconnected at a connection stage indicating a probable authentication error: ("ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'",); first exception - None
+2025-01-06 10:57:45,024 - pika.adapters.blocking_connection - [ERROR] - Connection workflow failed: AMQPConnectionWorkflowFailed: 1 exceptions in all; last exception - AMQPConnectorAMQPHandshakeError: ProbableAuthenticationError: Client was disconnected at a connection stage indicating a probable authentication error: ("ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'",); first exception - None
+2025-01-06 10:57:45,024 - pika.adapters.blocking_connection - [ERROR] - Error in _create_connection().
+Traceback (most recent call last):
+  File "/home/sushant/Desktop/normal/try 7 - python/venv/lib/python3.12/site-packages/pika/adapters/blocking_connection.py", line 451, in _create_connection
+    raise self._reap_last_connection_workflow_error(error)
+pika.exceptions.ProbableAuthenticationError: ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'
+2025-01-06 10:57:45,025 - __main__ - [ERROR] - Connection attempt 1 failed: ConnectionClosedByBroker: (403) 'ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.'
+2025-01-06 10:59:09,999 - __main__ - [INFO] - Successfully connected to RabbitMQ
+2025-01-06 10:59:10,002 - __main__ - [INFO] - Started consuming messages
+2025-01-06 11:20:51,692 - __main__ - [INFO] - Successfully connected to RabbitMQ
+2025-01-06 11:20:51,693 - __main__ - [INFO] - Started continuous message publishing. Press Ctrl+C to stop.
+2025-01-06 11:20:51,694 - __main__ - [INFO] - Published message 1736142651694
+2025-01-06 11:20:51,694 - __main__ - [INFO] - Total messages published: 1
+2025-01-06 11:20:53,695 - pika.channel - [WARNING] - Received remote Channel.Close (404): "NOT_FOUND - no exchange 'main_exchange' in vhost '/'" on <Channel number=1 OPEN conn=<SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x7aba628356d0> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2025-01-06 11:20:53,695 - __main__ - [ERROR] - Error publishing message: (404, "NOT_FOUND - no exchange 'main_exchange' in vhost '/'")
+2025-01-06 11:20:53,695 - __main__ - [ERROR] - Error in continuous publishing: (404, "NOT_FOUND - no exchange 'main_exchange' in vhost '/'")
+2025-01-06 11:21:35,896 - __main__ - [INFO] - Successfully connected to RabbitMQ
+2025-01-06 11:21:35,897 - __main__ - [INFO] - Started continuous message publishing. Press Ctrl+C to stop.
+2025-01-06 11:21:35,897 - __main__ - [INFO] - Published message 1736142695897
+2025-01-06 11:21:35,897 - __main__ - [INFO] - Total messages published: 1
+2025-01-06 11:21:37,898 - __main__ - [INFO] - Published message 1736142697897
+2025-01-06 11:21:37,898 - __main__ - [INFO] - Total messages published: 2
+2025-01-06 11:21:39,898 - __main__ - [INFO] - Published message 1736142699898
+2025-01-06 11:21:39,899 - __main__ - [INFO] - Total messages published: 3
+2025-01-06 11:21:41,899 - __main__ - [INFO] - Published message 1736142701899
+2025-01-06 11:21:41,899 - __main__ - [INFO] - Total messages published: 4
+2025-01-06 11:21:43,134 - __main__ - [INFO] - Stopping publisher. Total messages sent: 4
