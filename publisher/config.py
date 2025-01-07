@@ -2,7 +2,7 @@ import logging
 
 # RabbitMQ Configuration
 RABBITMQ_CONFIG = {
-    'host': '10.0.24.198',
+    'host': '64.227.154.108',
     'port': 5672,
     'virtual_host': '/',
     'credentials': {
