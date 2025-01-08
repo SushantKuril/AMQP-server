@@ -1,0 +1,1357 @@
+2025-01-08 23:18:22,948 - __main__ - [INFO] - Successfully connected to RabbitMQ
+2025-01-08 23:18:22,948 - __main__ - [INFO] - Started continuous message publishing. Press Ctrl+C to stop.
+2025-01-08 23:18:22,948 - __main__ - [INFO] - Published message 1736358502948
+2025-01-08 23:18:22,949 - __main__ - [INFO] - Total messages published: 1
+2025-01-08 23:18:24,949 - __main__ - [INFO] - Published message 1736358504949
+2025-01-08 23:18:24,949 - __main__ - [INFO] - Total messages published: 2
+2025-01-08 23:18:26,950 - __main__ - [INFO] - Published message 1736358506950
+2025-01-08 23:18:26,950 - __main__ - [INFO] - Total messages published: 3
+2025-01-08 23:18:28,950 - __main__ - [INFO] - Published message 1736358508950
+2025-01-08 23:18:28,951 - __main__ - [INFO] - Total messages published: 4
+2025-01-08 23:18:30,951 - __main__ - [INFO] - Published message 1736358510951
+2025-01-08 23:18:30,951 - __main__ - [INFO] - Total messages published: 5
+2025-01-08 23:18:32,952 - __main__ - [INFO] - Published message 1736358512952
+2025-01-08 23:18:32,952 - __main__ - [INFO] - Total messages published: 6
+2025-01-08 23:18:34,953 - __main__ - [INFO] - Published message 1736358514952
+2025-01-08 23:18:34,953 - __main__ - [INFO] - Total messages published: 7
+2025-01-08 23:18:36,953 - __main__ - [INFO] - Published message 1736358516953
+2025-01-08 23:18:36,953 - __main__ - [INFO] - Total messages published: 8
+2025-01-08 23:18:38,954 - __main__ - [INFO] - Published message 1736358518954
+2025-01-08 23:18:38,954 - __main__ - [INFO] - Total messages published: 9
+2025-01-08 23:18:40,955 - __main__ - [INFO] - Published message 1736358520954
+2025-01-08 23:18:40,955 - __main__ - [INFO] - Total messages published: 10
+2025-01-08 23:18:42,955 - __main__ - [INFO] - Published message 1736358522955
+2025-01-08 23:18:42,955 - __main__ - [INFO] - Total messages published: 11
+2025-01-08 23:18:44,956 - __main__ - [INFO] - Published message 1736358524956
+2025-01-08 23:18:44,956 - __main__ - [INFO] - Total messages published: 12
+2025-01-08 23:18:46,956 - __main__ - [INFO] - Published message 1736358526956
+2025-01-08 23:18:46,957 - __main__ - [INFO] - Total messages published: 13
+2025-01-08 23:18:48,957 - __main__ - [INFO] - Published message 1736358528957
+2025-01-08 23:18:48,957 - __main__ - [INFO] - Total messages published: 14
+2025-01-08 23:18:50,958 - __main__ - [INFO] - Published message 1736358530957
+2025-01-08 23:18:50,958 - __main__ - [INFO] - Total messages published: 15
+2025-01-08 23:18:52,958 - __main__ - [INFO] - Published message 1736358532958
+2025-01-08 23:18:52,958 - __main__ - [INFO] - Total messages published: 16
+2025-01-08 23:18:54,959 - __main__ - [INFO] - Published message 1736358534959
+2025-01-08 23:18:54,959 - __main__ - [INFO] - Total messages published: 17
+2025-01-08 23:18:56,959 - __main__ - [INFO] - Published message 1736358536959
+2025-01-08 23:18:56,960 - __main__ - [INFO] - Total messages published: 18
+2025-01-08 23:18:58,960 - __main__ - [INFO] - Published message 1736358538960
+2025-01-08 23:18:58,960 - __main__ - [INFO] - Total messages published: 19
+2025-01-08 23:19:00,961 - __main__ - [INFO] - Published message 1736358540960
+2025-01-08 23:19:00,961 - __main__ - [INFO] - Total messages published: 20
+2025-01-08 23:19:02,961 - __main__ - [INFO] - Published message 1736358542961
+2025-01-08 23:19:02,961 - __main__ - [INFO] - Total messages published: 21
+2025-01-08 23:19:04,962 - __main__ - [INFO] - Published message 1736358544962
+2025-01-08 23:19:04,962 - __main__ - [INFO] - Total messages published: 22
+2025-01-08 23:19:06,963 - __main__ - [INFO] - Published message 1736358546962
+2025-01-08 23:19:06,963 - __main__ - [INFO] - Total messages published: 23
+2025-01-08 23:19:08,963 - __main__ - [INFO] - Published message 1736358548963
+2025-01-08 23:19:08,963 - __main__ - [INFO] - Total messages published: 24
+2025-01-08 23:19:10,964 - __main__ - [INFO] - Published message 1736358550964
+2025-01-08 23:19:10,964 - __main__ - [INFO] - Total messages published: 25
+2025-01-08 23:19:12,965 - __main__ - [INFO] - Published message 1736358552964
+2025-01-08 23:19:12,965 - __main__ - [INFO] - Total messages published: 26
+2025-01-08 23:19:14,965 - __main__ - [INFO] - Published message 1736358554965
+2025-01-08 23:19:14,966 - __main__ - [INFO] - Total messages published: 27
+2025-01-08 23:19:16,966 - __main__ - [INFO] - Published message 1736358556966
+2025-01-08 23:19:16,966 - __main__ - [INFO] - Total messages published: 28
+2025-01-08 23:19:18,967 - __main__ - [INFO] - Published message 1736358558966
+2025-01-08 23:19:18,967 - __main__ - [INFO] - Total messages published: 29
+2025-01-08 23:19:20,967 - __main__ - [INFO] - Published message 1736358560967
+2025-01-08 23:19:20,967 - __main__ - [INFO] - Total messages published: 30
+2025-01-08 23:19:22,968 - __main__ - [INFO] - Published message 1736358562968
+2025-01-08 23:19:22,968 - __main__ - [INFO] - Total messages published: 31
+2025-01-08 23:19:24,968 - __main__ - [INFO] - Published message 1736358564968
+2025-01-08 23:19:24,968 - __main__ - [INFO] - Total messages published: 32
+2025-01-08 23:19:26,969 - __main__ - [INFO] - Published message 1736358566969
+2025-01-08 23:19:26,969 - __main__ - [INFO] - Total messages published: 33
+2025-01-08 23:19:28,969 - __main__ - [INFO] - Published message 1736358568969
+2025-01-08 23:19:28,970 - __main__ - [INFO] - Total messages published: 34
+2025-01-08 23:19:30,970 - __main__ - [INFO] - Published message 1736358570970
+2025-01-08 23:19:30,970 - __main__ - [INFO] - Total messages published: 35
+2025-01-08 23:19:32,971 - __main__ - [INFO] - Published message 1736358572970
+2025-01-08 23:19:32,971 - __main__ - [INFO] - Total messages published: 36
+2025-01-08 23:19:34,971 - __main__ - [INFO] - Published message 1736358574971
+2025-01-08 23:19:34,971 - __main__ - [INFO] - Total messages published: 37
+2025-01-08 23:19:36,972 - __main__ - [INFO] - Published message 1736358576972
+2025-01-08 23:19:36,972 - __main__ - [INFO] - Total messages published: 38
+2025-01-08 23:19:38,972 - __main__ - [INFO] - Published message 1736358578972
+2025-01-08 23:19:38,973 - __main__ - [INFO] - Total messages published: 39
+2025-01-08 23:19:40,973 - __main__ - [INFO] - Published message 1736358580973
+2025-01-08 23:19:40,974 - __main__ - [INFO] - Total messages published: 40
+2025-01-08 23:19:42,974 - __main__ - [INFO] - Published message 1736358582974
+2025-01-08 23:19:42,974 - __main__ - [INFO] - Total messages published: 41
+2025-01-08 23:19:44,975 - __main__ - [INFO] - Published message 1736358584974
+2025-01-08 23:19:44,975 - __main__ - [INFO] - Total messages published: 42
+2025-01-08 23:19:46,975 - __main__ - [INFO] - Published message 1736358586975
+2025-01-08 23:19:46,975 - __main__ - [INFO] - Total messages published: 43
+2025-01-08 23:19:48,976 - __main__ - [INFO] - Published message 1736358588976
+2025-01-08 23:19:48,976 - __main__ - [INFO] - Total messages published: 44
+2025-01-08 23:19:50,977 - __main__ - [INFO] - Published message 1736358590976
+2025-01-08 23:19:50,977 - __main__ - [INFO] - Total messages published: 45
+2025-01-08 23:19:52,977 - __main__ - [INFO] - Published message 1736358592977
+2025-01-08 23:19:52,978 - __main__ - [INFO] - Total messages published: 46
+2025-01-08 23:19:54,978 - __main__ - [INFO] - Published message 1736358594978
+2025-01-08 23:19:54,978 - __main__ - [INFO] - Total messages published: 47
+2025-01-08 23:19:56,979 - __main__ - [INFO] - Published message 1736358596979
+2025-01-08 23:19:56,979 - __main__ - [INFO] - Total messages published: 48
+2025-01-08 23:19:58,979 - __main__ - [INFO] - Published message 1736358598979
+2025-01-08 23:19:58,980 - __main__ - [INFO] - Total messages published: 49
+2025-01-08 23:20:00,980 - __main__ - [INFO] - Published message 1736358600980
+2025-01-08 23:20:00,980 - __main__ - [INFO] - Total messages published: 50
+2025-01-08 23:20:02,981 - __main__ - [INFO] - Published message 1736358602980
+2025-01-08 23:20:02,981 - __main__ - [INFO] - Total messages published: 51
+2025-01-08 23:20:04,981 - __main__ - [INFO] - Published message 1736358604981
+2025-01-08 23:20:04,982 - __main__ - [INFO] - Total messages published: 52
+2025-01-08 23:20:06,982 - __main__ - [INFO] - Published message 1736358606982
+2025-01-08 23:20:06,982 - __main__ - [INFO] - Total messages published: 53
+2025-01-08 23:20:08,983 - __main__ - [INFO] - Published message 1736358608983
+2025-01-08 23:20:08,983 - __main__ - [INFO] - Total messages published: 54
+2025-01-08 23:20:10,984 - __main__ - [INFO] - Published message 1736358610983
+2025-01-08 23:20:10,984 - __main__ - [INFO] - Total messages published: 55
+2025-01-08 23:20:12,984 - __main__ - [INFO] - Published message 1736358612984
+2025-01-08 23:20:12,984 - __main__ - [INFO] - Total messages published: 56
+2025-01-08 23:20:14,985 - __main__ - [INFO] - Published message 1736358614985
+2025-01-08 23:20:14,985 - __main__ - [INFO] - Total messages published: 57
+2025-01-08 23:20:16,985 - __main__ - [INFO] - Published message 1736358616985
+2025-01-08 23:20:16,986 - __main__ - [INFO] - Total messages published: 58
+2025-01-08 23:20:18,986 - __main__ - [INFO] - Published message 1736358618986
+2025-01-08 23:20:18,986 - __main__ - [INFO] - Total messages published: 59
+2025-01-08 23:20:20,987 - __main__ - [INFO] - Published message 1736358620987
+2025-01-08 23:20:20,987 - __main__ - [INFO] - Total messages published: 60
+2025-01-08 23:20:22,987 - __main__ - [INFO] - Published message 1736358622987
+2025-01-08 23:20:22,988 - __main__ - [INFO] - Total messages published: 61
+2025-01-08 23:20:24,988 - __main__ - [INFO] - Published message 1736358624988
+2025-01-08 23:20:24,988 - __main__ - [INFO] - Total messages published: 62
+2025-01-08 23:20:26,989 - __main__ - [INFO] - Published message 1736358626988
+2025-01-08 23:20:26,989 - __main__ - [INFO] - Total messages published: 63
+2025-01-08 23:20:28,989 - __main__ - [INFO] - Published message 1736358628989
+2025-01-08 23:20:28,989 - __main__ - [INFO] - Total messages published: 64
+2025-01-08 23:20:30,990 - __main__ - [INFO] - Published message 1736358630990
+2025-01-08 23:20:30,990 - __main__ - [INFO] - Total messages published: 65
+2025-01-08 23:20:32,991 - __main__ - [INFO] - Published message 1736358632990
+2025-01-08 23:20:32,991 - __main__ - [INFO] - Total messages published: 66
+2025-01-08 23:20:34,991 - __main__ - [INFO] - Published message 1736358634991
+2025-01-08 23:20:34,991 - __main__ - [INFO] - Total messages published: 67
+2025-01-08 23:20:36,992 - __main__ - [INFO] - Published message 1736358636992
+2025-01-08 23:20:36,992 - __main__ - [INFO] - Total messages published: 68
+2025-01-08 23:20:38,992 - __main__ - [INFO] - Published message 1736358638992
+2025-01-08 23:20:38,993 - __main__ - [INFO] - Total messages published: 69
+2025-01-08 23:20:40,993 - __main__ - [INFO] - Published message 1736358640993
+2025-01-08 23:20:40,993 - __main__ - [INFO] - Total messages published: 70
+2025-01-08 23:20:42,994 - __main__ - [INFO] - Published message 1736358642993
+2025-01-08 23:20:42,994 - __main__ - [INFO] - Total messages published: 71
+2025-01-08 23:20:44,994 - __main__ - [INFO] - Published message 1736358644994
+2025-01-08 23:20:44,994 - __main__ - [INFO] - Total messages published: 72
+2025-01-08 23:20:46,995 - __main__ - [INFO] - Published message 1736358646995
+2025-01-08 23:20:46,995 - __main__ - [INFO] - Total messages published: 73
+2025-01-08 23:20:48,995 - __main__ - [INFO] - Published message 1736358648995
+2025-01-08 23:20:48,996 - __main__ - [INFO] - Total messages published: 74
+2025-01-08 23:20:50,996 - __main__ - [INFO] - Published message 1736358650996
+2025-01-08 23:20:50,996 - __main__ - [INFO] - Total messages published: 75
+2025-01-08 23:20:52,997 - __main__ - [INFO] - Published message 1736358652997
+2025-01-08 23:20:52,997 - __main__ - [INFO] - Total messages published: 76
+2025-01-08 23:20:54,998 - __main__ - [INFO] - Published message 1736358654997
+2025-01-08 23:20:54,998 - __main__ - [INFO] - Total messages published: 77
+2025-01-08 23:20:56,998 - __main__ - [INFO] - Published message 1736358656998
+2025-01-08 23:20:56,999 - __main__ - [INFO] - Total messages published: 78
+2025-01-08 23:20:58,999 - __main__ - [INFO] - Published message 1736358658999
+2025-01-08 23:20:58,999 - __main__ - [INFO] - Total messages published: 79
+2025-01-08 23:21:01,000 - __main__ - [INFO] - Published message 1736358660999
+2025-01-08 23:21:01,000 - __main__ - [INFO] - Total messages published: 80
+2025-01-08 23:21:03,001 - __main__ - [INFO] - Published message 1736358663000
+2025-01-08 23:21:03,001 - __main__ - [INFO] - Total messages published: 81
+2025-01-08 23:21:05,002 - __main__ - [INFO] - Published message 1736358665001
+2025-01-08 23:21:05,002 - __main__ - [INFO] - Total messages published: 82
+2025-01-08 23:21:07,002 - __main__ - [INFO] - Published message 1736358667002
+2025-01-08 23:21:07,002 - __main__ - [INFO] - Total messages published: 83
+2025-01-08 23:21:09,003 - __main__ - [INFO] - Published message 1736358669003
+2025-01-08 23:21:09,003 - __main__ - [INFO] - Total messages published: 84
+2025-01-08 23:21:11,004 - __main__ - [INFO] - Published message 1736358671003
+2025-01-08 23:21:11,004 - __main__ - [INFO] - Total messages published: 85
+2025-01-08 23:21:13,004 - __main__ - [INFO] - Published message 1736358673004
+2025-01-08 23:21:13,004 - __main__ - [INFO] - Total messages published: 86
+2025-01-08 23:21:15,005 - __main__ - [INFO] - Published message 1736358675005
+2025-01-08 23:21:15,005 - __main__ - [INFO] - Total messages published: 87
+2025-01-08 23:21:17,006 - __main__ - [INFO] - Published message 1736358677005
+2025-01-08 23:21:17,006 - __main__ - [INFO] - Total messages published: 88
+2025-01-08 23:21:19,006 - __main__ - [INFO] - Published message 1736358679006
+2025-01-08 23:21:19,006 - __main__ - [INFO] - Total messages published: 89
+2025-01-08 23:21:21,007 - __main__ - [INFO] - Published message 1736358681007
+2025-01-08 23:21:21,007 - __main__ - [INFO] - Total messages published: 90
+2025-01-08 23:21:23,007 - __main__ - [INFO] - Published message 1736358683007
+2025-01-08 23:21:23,008 - __main__ - [INFO] - Total messages published: 91
+2025-01-08 23:21:25,008 - __main__ - [INFO] - Published message 1736358685008
+2025-01-08 23:21:25,008 - __main__ - [INFO] - Total messages published: 92
+2025-01-08 23:21:27,008 - __main__ - [INFO] - Published message 1736358687008
+2025-01-08 23:21:27,009 - __main__ - [INFO] - Total messages published: 93
+2025-01-08 23:21:29,009 - __main__ - [INFO] - Published message 1736358689009
+2025-01-08 23:21:29,009 - __main__ - [INFO] - Total messages published: 94
+2025-01-08 23:21:31,010 - __main__ - [INFO] - Published message 1736358691010
+2025-01-08 23:21:31,010 - __main__ - [INFO] - Total messages published: 95
+2025-01-08 23:21:33,011 - __main__ - [INFO] - Published message 1736358693010
+2025-01-08 23:21:33,011 - __main__ - [INFO] - Total messages published: 96
+2025-01-08 23:21:35,011 - __main__ - [INFO] - Published message 1736358695011
+2025-01-08 23:21:35,011 - __main__ - [INFO] - Total messages published: 97
+2025-01-08 23:21:37,012 - __main__ - [INFO] - Published message 1736358697012
+2025-01-08 23:21:37,012 - __main__ - [INFO] - Total messages published: 98
+2025-01-08 23:21:39,012 - __main__ - [INFO] - Published message 1736358699012
+2025-01-08 23:21:39,012 - __main__ - [INFO] - Total messages published: 99
+2025-01-08 23:21:41,013 - __main__ - [INFO] - Published message 1736358701013
+2025-01-08 23:21:41,013 - __main__ - [INFO] - Total messages published: 100
+2025-01-08 23:21:43,014 - __main__ - [INFO] - Published message 1736358703013
+2025-01-08 23:21:43,014 - __main__ - [INFO] - Total messages published: 101
+2025-01-08 23:21:45,014 - __main__ - [INFO] - Published message 1736358705014
+2025-01-08 23:21:45,014 - __main__ - [INFO] - Total messages published: 102
+2025-01-08 23:21:47,015 - __main__ - [INFO] - Published message 1736358707015
+2025-01-08 23:21:47,015 - __main__ - [INFO] - Total messages published: 103
+2025-01-08 23:21:49,016 - __main__ - [INFO] - Published message 1736358709015
+2025-01-08 23:21:49,016 - __main__ - [INFO] - Total messages published: 104
+2025-01-08 23:21:51,016 - __main__ - [INFO] - Published message 1736358711016
+2025-01-08 23:21:51,017 - __main__ - [INFO] - Total messages published: 105
+2025-01-08 23:21:53,017 - __main__ - [INFO] - Published message 1736358713017
+2025-01-08 23:21:53,017 - __main__ - [INFO] - Total messages published: 106
+2025-01-08 23:21:55,018 - __main__ - [INFO] - Published message 1736358715017
+2025-01-08 23:21:55,018 - __main__ - [INFO] - Total messages published: 107
+2025-01-08 23:21:57,019 - __main__ - [INFO] - Published message 1736358717018
+2025-01-08 23:21:57,019 - __main__ - [INFO] - Total messages published: 108
+2025-01-08 23:21:59,019 - __main__ - [INFO] - Published message 1736358719019
+2025-01-08 23:21:59,020 - __main__ - [INFO] - Total messages published: 109
+2025-01-08 23:22:01,020 - __main__ - [INFO] - Published message 1736358721020
+2025-01-08 23:22:01,020 - __main__ - [INFO] - Total messages published: 110
+2025-01-08 23:22:03,021 - __main__ - [INFO] - Published message 1736358723021
+2025-01-08 23:22:03,021 - __main__ - [INFO] - Total messages published: 111
+2025-01-08 23:22:05,021 - __main__ - [INFO] - Published message 1736358725021
+2025-01-08 23:22:05,021 - __main__ - [INFO] - Total messages published: 112
+2025-01-08 23:22:07,022 - __main__ - [INFO] - Published message 1736358727022
+2025-01-08 23:22:07,022 - __main__ - [INFO] - Total messages published: 113
+2025-01-08 23:22:09,023 - __main__ - [INFO] - Published message 1736358729023
+2025-01-08 23:22:09,023 - __main__ - [INFO] - Total messages published: 114
+2025-01-08 23:22:11,023 - __main__ - [INFO] - Published message 1736358731023
+2025-01-08 23:22:11,024 - __main__ - [INFO] - Total messages published: 115
+2025-01-08 23:22:13,024 - __main__ - [INFO] - Published message 1736358733024
+2025-01-08 23:22:13,024 - __main__ - [INFO] - Total messages published: 116
+2025-01-08 23:22:15,025 - __main__ - [INFO] - Published message 1736358735024
+2025-01-08 23:22:15,025 - __main__ - [INFO] - Total messages published: 117
+2025-01-08 23:22:17,025 - __main__ - [INFO] - Published message 1736358737025
+2025-01-08 23:22:17,026 - __main__ - [INFO] - Total messages published: 118
+2025-01-08 23:22:19,026 - __main__ - [INFO] - Published message 1736358739026
+2025-01-08 23:22:19,026 - __main__ - [INFO] - Total messages published: 119
+2025-01-08 23:22:21,027 - __main__ - [INFO] - Published message 1736358741027
+2025-01-08 23:22:21,027 - __main__ - [INFO] - Total messages published: 120
+2025-01-08 23:22:23,028 - __main__ - [INFO] - Published message 1736358743027
+2025-01-08 23:22:23,028 - __main__ - [INFO] - Total messages published: 121
+2025-01-08 23:22:25,028 - __main__ - [INFO] - Published message 1736358745028
+2025-01-08 23:22:25,029 - __main__ - [INFO] - Total messages published: 122
+2025-01-08 23:22:27,029 - __main__ - [INFO] - Published message 1736358747029
+2025-01-08 23:22:27,030 - __main__ - [INFO] - Total messages published: 123
+2025-01-08 23:22:29,030 - __main__ - [INFO] - Published message 1736358749030
+2025-01-08 23:22:29,030 - __main__ - [INFO] - Total messages published: 124
+2025-01-08 23:22:31,031 - __main__ - [INFO] - Published message 1736358751030
+2025-01-08 23:22:31,031 - __main__ - [INFO] - Total messages published: 125
+2025-01-08 23:22:33,031 - __main__ - [INFO] - Published message 1736358753031
+2025-01-08 23:22:33,031 - __main__ - [INFO] - Total messages published: 126
+2025-01-08 23:22:35,032 - __main__ - [INFO] - Published message 1736358755032
+2025-01-08 23:22:35,032 - __main__ - [INFO] - Total messages published: 127
+2025-01-08 23:22:37,033 - __main__ - [INFO] - Published message 1736358757032
+2025-01-08 23:22:37,033 - __main__ - [INFO] - Total messages published: 128
+2025-01-08 23:22:39,033 - __main__ - [INFO] - Published message 1736358759033
+2025-01-08 23:22:39,034 - __main__ - [INFO] - Total messages published: 129
+2025-01-08 23:22:41,034 - __main__ - [INFO] - Published message 1736358761034
+2025-01-08 23:22:41,034 - __main__ - [INFO] - Total messages published: 130
+2025-01-08 23:22:43,035 - __main__ - [INFO] - Published message 1736358763034
+2025-01-08 23:22:43,035 - __main__ - [INFO] - Total messages published: 131
+2025-01-08 23:22:45,035 - __main__ - [INFO] - Published message 1736358765035
+2025-01-08 23:22:45,035 - __main__ - [INFO] - Total messages published: 132
+2025-01-08 23:22:47,036 - __main__ - [INFO] - Published message 1736358767036
+2025-01-08 23:22:47,036 - __main__ - [INFO] - Total messages published: 133
+2025-01-08 23:22:49,037 - __main__ - [INFO] - Published message 1736358769036
+2025-01-08 23:22:49,037 - __main__ - [INFO] - Total messages published: 134
+2025-01-08 23:22:51,037 - __main__ - [INFO] - Published message 1736358771037
+2025-01-08 23:22:51,037 - __main__ - [INFO] - Total messages published: 135
+2025-01-08 23:22:53,038 - __main__ - [INFO] - Published message 1736358773038
+2025-01-08 23:22:53,038 - __main__ - [INFO] - Total messages published: 136
+2025-01-08 23:22:55,039 - __main__ - [INFO] - Published message 1736358775038
+2025-01-08 23:22:55,039 - __main__ - [INFO] - Total messages published: 137
+2025-01-08 23:22:57,039 - __main__ - [INFO] - Published message 1736358777039
+2025-01-08 23:22:57,039 - __main__ - [INFO] - Total messages published: 138
+2025-01-08 23:22:59,040 - __main__ - [INFO] - Published message 1736358779040
+2025-01-08 23:22:59,040 - __main__ - [INFO] - Total messages published: 139
+2025-01-08 23:23:01,040 - __main__ - [INFO] - Published message 1736358781040
+2025-01-08 23:23:01,041 - __main__ - [INFO] - Total messages published: 140
+2025-01-08 23:23:03,041 - __main__ - [INFO] - Published message 1736358783041
+2025-01-08 23:23:03,041 - __main__ - [INFO] - Total messages published: 141
+2025-01-08 23:23:05,042 - __main__ - [INFO] - Published message 1736358785041
+2025-01-08 23:23:05,042 - __main__ - [INFO] - Total messages published: 142
+2025-01-08 23:23:07,042 - __main__ - [INFO] - Published message 1736358787042
+2025-01-08 23:23:07,042 - __main__ - [INFO] - Total messages published: 143
+2025-01-08 23:23:09,043 - __main__ - [INFO] - Published message 1736358789043
+2025-01-08 23:23:09,043 - __main__ - [INFO] - Total messages published: 144
+2025-01-08 23:23:11,043 - __main__ - [INFO] - Published message 1736358791043
+2025-01-08 23:23:11,044 - __main__ - [INFO] - Total messages published: 145
+2025-01-08 23:23:13,044 - __main__ - [INFO] - Published message 1736358793044
+2025-01-08 23:23:13,044 - __main__ - [INFO] - Total messages published: 146
+2025-01-08 23:23:15,045 - __main__ - [INFO] - Published message 1736358795044
+2025-01-08 23:23:15,045 - __main__ - [INFO] - Total messages published: 147
+2025-01-08 23:23:17,045 - __main__ - [INFO] - Published message 1736358797045
+2025-01-08 23:23:17,045 - __main__ - [INFO] - Total messages published: 148
+2025-01-08 23:23:19,046 - __main__ - [INFO] - Published message 1736358799046
+2025-01-08 23:23:19,046 - __main__ - [INFO] - Total messages published: 149
+2025-01-08 23:23:21,047 - __main__ - [INFO] - Published message 1736358801046
+2025-01-08 23:23:21,047 - __main__ - [INFO] - Total messages published: 150
+2025-01-08 23:23:23,048 - __main__ - [INFO] - Published message 1736358803047
+2025-01-08 23:23:23,048 - __main__ - [INFO] - Total messages published: 151
+2025-01-08 23:23:25,048 - __main__ - [INFO] - Published message 1736358805048
+2025-01-08 23:23:25,048 - __main__ - [INFO] - Total messages published: 152
+2025-01-08 23:23:27,049 - __main__ - [INFO] - Published message 1736358807049
+2025-01-08 23:23:27,049 - __main__ - [INFO] - Total messages published: 153
+2025-01-08 23:23:29,050 - __main__ - [INFO] - Published message 1736358809050
+2025-01-08 23:23:29,050 - __main__ - [INFO] - Total messages published: 154
+2025-01-08 23:23:31,051 - __main__ - [INFO] - Published message 1736358811050
+2025-01-08 23:23:31,051 - __main__ - [INFO] - Total messages published: 155
+2025-01-08 23:23:33,051 - __main__ - [INFO] - Published message 1736358813051
+2025-01-08 23:23:33,051 - __main__ - [INFO] - Total messages published: 156
+2025-01-08 23:23:35,052 - __main__ - [INFO] - Published message 1736358815052
+2025-01-08 23:23:35,052 - __main__ - [INFO] - Total messages published: 157
+2025-01-08 23:23:37,053 - __main__ - [INFO] - Published message 1736358817052
+2025-01-08 23:23:37,053 - __main__ - [INFO] - Total messages published: 158
+2025-01-08 23:23:39,053 - __main__ - [INFO] - Published message 1736358819053
+2025-01-08 23:23:39,053 - __main__ - [INFO] - Total messages published: 159
+2025-01-08 23:23:41,054 - __main__ - [INFO] - Published message 1736358821054
+2025-01-08 23:23:41,054 - __main__ - [INFO] - Total messages published: 160
+2025-01-08 23:23:43,054 - __main__ - [INFO] - Published message 1736358823054
+2025-01-08 23:23:43,055 - __main__ - [INFO] - Total messages published: 161
+2025-01-08 23:23:45,055 - __main__ - [INFO] - Published message 1736358825055
+2025-01-08 23:23:45,055 - __main__ - [INFO] - Total messages published: 162
+2025-01-08 23:23:47,056 - __main__ - [INFO] - Published message 1736358827055
+2025-01-08 23:23:47,056 - __main__ - [INFO] - Total messages published: 163
+2025-01-08 23:23:49,056 - __main__ - [INFO] - Published message 1736358829056
+2025-01-08 23:23:49,057 - __main__ - [INFO] - Total messages published: 164
+2025-01-08 23:23:51,057 - __main__ - [INFO] - Published message 1736358831057
+2025-01-08 23:23:51,057 - __main__ - [INFO] - Total messages published: 165
+2025-01-08 23:23:53,058 - __main__ - [INFO] - Published message 1736358833058
+2025-01-08 23:23:53,058 - __main__ - [INFO] - Total messages published: 166
+2025-01-08 23:23:55,059 - __main__ - [INFO] - Published message 1736358835058
+2025-01-08 23:23:55,059 - __main__ - [INFO] - Total messages published: 167
+2025-01-08 23:23:57,059 - __main__ - [INFO] - Published message 1736358837059
+2025-01-08 23:23:57,060 - __main__ - [INFO] - Total messages published: 168
+2025-01-08 23:23:59,060 - __main__ - [INFO] - Published message 1736358839060
+2025-01-08 23:23:59,060 - __main__ - [INFO] - Total messages published: 169
+2025-01-08 23:24:01,061 - __main__ - [INFO] - Published message 1736358841060
+2025-01-08 23:24:01,061 - __main__ - [INFO] - Total messages published: 170
+2025-01-08 23:24:03,062 - __main__ - [INFO] - Published message 1736358843062
+2025-01-08 23:24:03,062 - __main__ - [INFO] - Total messages published: 171
+2025-01-08 23:24:05,063 - __main__ - [INFO] - Published message 1736358845062
+2025-01-08 23:24:05,063 - __main__ - [INFO] - Total messages published: 172
+2025-01-08 23:24:07,064 - __main__ - [INFO] - Published message 1736358847063
+2025-01-08 23:24:07,064 - __main__ - [INFO] - Total messages published: 173
+2025-01-08 23:24:09,064 - __main__ - [INFO] - Published message 1736358849064
+2025-01-08 23:24:09,064 - __main__ - [INFO] - Total messages published: 174
+2025-01-08 23:24:11,065 - __main__ - [INFO] - Published message 1736358851065
+2025-01-08 23:24:11,065 - __main__ - [INFO] - Total messages published: 175
+2025-01-08 23:24:13,065 - __main__ - [INFO] - Published message 1736358853065
+2025-01-08 23:24:13,066 - __main__ - [INFO] - Total messages published: 176
+2025-01-08 23:24:15,066 - __main__ - [INFO] - Published message 1736358855066
+2025-01-08 23:24:15,066 - __main__ - [INFO] - Total messages published: 177
+2025-01-08 23:24:17,067 - __main__ - [INFO] - Published message 1736358857066
+2025-01-08 23:24:17,067 - __main__ - [INFO] - Total messages published: 178
+2025-01-08 23:24:19,067 - __main__ - [INFO] - Published message 1736358859067
+2025-01-08 23:24:19,067 - __main__ - [INFO] - Total messages published: 179
+2025-01-08 23:24:21,068 - __main__ - [INFO] - Published message 1736358861068
+2025-01-08 23:24:21,068 - __main__ - [INFO] - Total messages published: 180
+2025-01-08 23:24:23,068 - __main__ - [INFO] - Published message 1736358863068
+2025-01-08 23:24:23,069 - __main__ - [INFO] - Total messages published: 181
+2025-01-08 23:24:25,069 - __main__ - [INFO] - Published message 1736358865069
+2025-01-08 23:24:25,069 - __main__ - [INFO] - Total messages published: 182
+2025-01-08 23:24:27,070 - __main__ - [INFO] - Published message 1736358867069
+2025-01-08 23:24:27,070 - __main__ - [INFO] - Total messages published: 183
+2025-01-08 23:24:29,070 - __main__ - [INFO] - Published message 1736358869070
+2025-01-08 23:24:29,070 - __main__ - [INFO] - Total messages published: 184
+2025-01-08 23:24:31,071 - __main__ - [INFO] - Published message 1736358871071
+2025-01-08 23:24:31,071 - __main__ - [INFO] - Total messages published: 185
+2025-01-08 23:24:33,072 - __main__ - [INFO] - Published message 1736358873071
+2025-01-08 23:24:33,072 - __main__ - [INFO] - Total messages published: 186
+2025-01-08 23:24:35,072 - __main__ - [INFO] - Published message 1736358875072
+2025-01-08 23:24:35,072 - __main__ - [INFO] - Total messages published: 187
+2025-01-08 23:24:37,073 - __main__ - [INFO] - Published message 1736358877073
+2025-01-08 23:24:37,073 - __main__ - [INFO] - Total messages published: 188
+2025-01-08 23:24:39,073 - __main__ - [INFO] - Published message 1736358879073
+2025-01-08 23:24:39,073 - __main__ - [INFO] - Total messages published: 189
+2025-01-08 23:24:41,074 - __main__ - [INFO] - Published message 1736358881074
+2025-01-08 23:24:41,074 - __main__ - [INFO] - Total messages published: 190
+2025-01-08 23:24:43,075 - __main__ - [INFO] - Published message 1736358883074
+2025-01-08 23:24:43,075 - __main__ - [INFO] - Total messages published: 191
+2025-01-08 23:24:45,075 - __main__ - [INFO] - Published message 1736358885075
+2025-01-08 23:24:45,075 - __main__ - [INFO] - Total messages published: 192
+2025-01-08 23:24:47,076 - __main__ - [INFO] - Published message 1736358887076
+2025-01-08 23:24:47,076 - __main__ - [INFO] - Total messages published: 193
+2025-01-08 23:24:49,076 - __main__ - [INFO] - Published message 1736358889076
+2025-01-08 23:24:49,077 - __main__ - [INFO] - Total messages published: 194
+2025-01-08 23:24:51,077 - __main__ - [INFO] - Published message 1736358891077
+2025-01-08 23:24:51,077 - __main__ - [INFO] - Total messages published: 195
+2025-01-08 23:24:53,078 - __main__ - [INFO] - Published message 1736358893078
+2025-01-08 23:24:53,078 - __main__ - [INFO] - Total messages published: 196
+2025-01-08 23:24:55,079 - __main__ - [INFO] - Published message 1736358895079
+2025-01-08 23:24:55,079 - __main__ - [INFO] - Total messages published: 197
+2025-01-08 23:24:57,080 - __main__ - [INFO] - Published message 1736358897079
+2025-01-08 23:24:57,080 - __main__ - [INFO] - Total messages published: 198
+2025-01-08 23:24:59,080 - __main__ - [INFO] - Published message 1736358899080
+2025-01-08 23:24:59,080 - __main__ - [INFO] - Total messages published: 199
+2025-01-08 23:25:01,081 - __main__ - [INFO] - Published message 1736358901080
+2025-01-08 23:25:01,081 - __main__ - [INFO] - Total messages published: 200
+2025-01-08 23:25:03,081 - __main__ - [INFO] - Published message 1736358903081
+2025-01-08 23:25:03,082 - __main__ - [INFO] - Total messages published: 201
+2025-01-08 23:25:05,082 - __main__ - [INFO] - Published message 1736358905082
+2025-01-08 23:25:05,082 - __main__ - [INFO] - Total messages published: 202
+2025-01-08 23:25:07,083 - __main__ - [INFO] - Published message 1736358907083
+2025-01-08 23:25:07,083 - __main__ - [INFO] - Total messages published: 203
+2025-01-08 23:25:09,084 - __main__ - [INFO] - Published message 1736358909083
+2025-01-08 23:25:09,084 - __main__ - [INFO] - Total messages published: 204
+2025-01-08 23:25:11,084 - __main__ - [INFO] - Published message 1736358911084
+2025-01-08 23:25:11,084 - __main__ - [INFO] - Total messages published: 205
+2025-01-08 23:25:13,085 - __main__ - [INFO] - Published message 1736358913085
+2025-01-08 23:25:13,085 - __main__ - [INFO] - Total messages published: 206
+2025-01-08 23:25:15,086 - __main__ - [INFO] - Published message 1736358915085
+2025-01-08 23:25:15,086 - __main__ - [INFO] - Total messages published: 207
+2025-01-08 23:25:17,086 - __main__ - [INFO] - Published message 1736358917086
+2025-01-08 23:25:17,086 - __main__ - [INFO] - Total messages published: 208
+2025-01-08 23:25:19,087 - __main__ - [INFO] - Published message 1736358919087
+2025-01-08 23:25:19,087 - __main__ - [INFO] - Total messages published: 209
+2025-01-08 23:25:21,087 - __main__ - [INFO] - Published message 1736358921087
+2025-01-08 23:25:21,088 - __main__ - [INFO] - Total messages published: 210
+2025-01-08 23:25:23,088 - __main__ - [INFO] - Published message 1736358923088
+2025-01-08 23:25:23,088 - __main__ - [INFO] - Total messages published: 211
+2025-01-08 23:25:25,089 - __main__ - [INFO] - Published message 1736358925088
+2025-01-08 23:25:25,089 - __main__ - [INFO] - Total messages published: 212
+2025-01-08 23:25:27,089 - __main__ - [INFO] - Published message 1736358927089
+2025-01-08 23:25:27,089 - __main__ - [INFO] - Total messages published: 213
+2025-01-08 23:25:29,090 - __main__ - [INFO] - Published message 1736358929090
+2025-01-08 23:25:29,090 - __main__ - [INFO] - Total messages published: 214
+2025-01-08 23:25:31,090 - __main__ - [INFO] - Published message 1736358931090
+2025-01-08 23:25:31,091 - __main__ - [INFO] - Total messages published: 215
+2025-01-08 23:25:33,091 - __main__ - [INFO] - Published message 1736358933091
+2025-01-08 23:25:33,091 - __main__ - [INFO] - Total messages published: 216
+2025-01-08 23:25:35,092 - __main__ - [INFO] - Published message 1736358935091
+2025-01-08 23:25:35,092 - __main__ - [INFO] - Total messages published: 217
+2025-01-08 23:25:37,092 - __main__ - [INFO] - Published message 1736358937092
+2025-01-08 23:25:37,092 - __main__ - [INFO] - Total messages published: 218
+2025-01-08 23:25:39,093 - __main__ - [INFO] - Published message 1736358939093
+2025-01-08 23:25:39,094 - __main__ - [INFO] - Total messages published: 219
+2025-01-08 23:25:41,094 - __main__ - [INFO] - Published message 1736358941094
+2025-01-08 23:25:41,094 - __main__ - [INFO] - Total messages published: 220
+2025-01-08 23:25:43,095 - __main__ - [INFO] - Published message 1736358943094
+2025-01-08 23:25:43,095 - __main__ - [INFO] - Total messages published: 221
+2025-01-08 23:25:45,095 - __main__ - [INFO] - Published message 1736358945095
+2025-01-08 23:25:45,096 - __main__ - [INFO] - Total messages published: 222
+2025-01-08 23:25:47,096 - __main__ - [INFO] - Published message 1736358947096
+2025-01-08 23:25:47,096 - __main__ - [INFO] - Total messages published: 223
+2025-01-08 23:25:49,097 - __main__ - [INFO] - Published message 1736358949097
+2025-01-08 23:25:49,097 - __main__ - [INFO] - Total messages published: 224
+2025-01-08 23:25:51,098 - __main__ - [INFO] - Published message 1736358951098
+2025-01-08 23:25:51,098 - __main__ - [INFO] - Total messages published: 225
+2025-01-08 23:25:53,098 - __main__ - [INFO] - Published message 1736358953098
+2025-01-08 23:25:53,099 - __main__ - [INFO] - Total messages published: 226
+2025-01-08 23:25:55,099 - __main__ - [INFO] - Published message 1736358955099
+2025-01-08 23:25:55,099 - __main__ - [INFO] - Total messages published: 227
+2025-01-08 23:25:57,100 - __main__ - [INFO] - Published message 1736358957099
+2025-01-08 23:25:57,100 - __main__ - [INFO] - Total messages published: 228
+2025-01-08 23:25:59,100 - __main__ - [INFO] - Published message 1736358959100
+2025-01-08 23:25:59,101 - __main__ - [INFO] - Total messages published: 229
+2025-01-08 23:26:01,101 - __main__ - [INFO] - Published message 1736358961101
+2025-01-08 23:26:01,101 - __main__ - [INFO] - Total messages published: 230
+2025-01-08 23:26:03,102 - __main__ - [INFO] - Published message 1736358963102
+2025-01-08 23:26:03,102 - __main__ - [INFO] - Total messages published: 231
+2025-01-08 23:26:05,103 - __main__ - [INFO] - Published message 1736358965102
+2025-01-08 23:26:05,103 - __main__ - [INFO] - Total messages published: 232
+2025-01-08 23:26:07,103 - __main__ - [INFO] - Published message 1736358967103
+2025-01-08 23:26:07,104 - __main__ - [INFO] - Total messages published: 233
+2025-01-08 23:26:09,104 - __main__ - [INFO] - Published message 1736358969104
+2025-01-08 23:26:09,104 - __main__ - [INFO] - Total messages published: 234
+2025-01-08 23:26:11,105 - __main__ - [INFO] - Published message 1736358971105
+2025-01-08 23:26:11,105 - __main__ - [INFO] - Total messages published: 235
+2025-01-08 23:26:13,105 - __main__ - [INFO] - Published message 1736358973105
+2025-01-08 23:26:13,106 - __main__ - [INFO] - Total messages published: 236
+2025-01-08 23:26:15,106 - __main__ - [INFO] - Published message 1736358975106
+2025-01-08 23:26:15,106 - __main__ - [INFO] - Total messages published: 237
+2025-01-08 23:26:17,107 - __main__ - [INFO] - Published message 1736358977107
+2025-01-08 23:26:17,107 - __main__ - [INFO] - Total messages published: 238
+2025-01-08 23:26:19,107 - __main__ - [INFO] - Published message 1736358979107
+2025-01-08 23:26:19,107 - __main__ - [INFO] - Total messages published: 239
+2025-01-08 23:26:21,108 - __main__ - [INFO] - Published message 1736358981108
+2025-01-08 23:26:21,108 - __main__ - [INFO] - Total messages published: 240
+2025-01-08 23:26:23,109 - __main__ - [INFO] - Published message 1736358983108
+2025-01-08 23:26:23,109 - __main__ - [INFO] - Total messages published: 241
+2025-01-08 23:26:25,109 - __main__ - [INFO] - Published message 1736358985109
+2025-01-08 23:26:25,110 - __main__ - [INFO] - Total messages published: 242
+2025-01-08 23:26:27,110 - __main__ - [INFO] - Published message 1736358987110
+2025-01-08 23:26:27,110 - __main__ - [INFO] - Total messages published: 243
+2025-01-08 23:26:29,110 - __main__ - [INFO] - Published message 1736358989110
+2025-01-08 23:26:29,111 - __main__ - [INFO] - Total messages published: 244
+2025-01-08 23:26:31,111 - __main__ - [INFO] - Published message 1736358991111
+2025-01-08 23:26:31,111 - __main__ - [INFO] - Total messages published: 245
+2025-01-08 23:26:33,112 - __main__ - [INFO] - Published message 1736358993111
+2025-01-08 23:26:33,112 - __main__ - [INFO] - Total messages published: 246
+2025-01-08 23:26:35,113 - __main__ - [INFO] - Published message 1736358995112
+2025-01-08 23:26:35,113 - __main__ - [INFO] - Total messages published: 247
+2025-01-08 23:26:37,113 - __main__ - [INFO] - Published message 1736358997113
+2025-01-08 23:26:37,113 - __main__ - [INFO] - Total messages published: 248
+2025-01-08 23:26:39,114 - __main__ - [INFO] - Published message 1736358999114
+2025-01-08 23:26:39,114 - __main__ - [INFO] - Total messages published: 249
+2025-01-08 23:26:41,115 - __main__ - [INFO] - Published message 1736359001114
+2025-01-08 23:26:41,115 - __main__ - [INFO] - Total messages published: 250
+2025-01-08 23:26:43,115 - __main__ - [INFO] - Published message 1736359003115
+2025-01-08 23:26:43,115 - __main__ - [INFO] - Total messages published: 251
+2025-01-08 23:26:45,116 - __main__ - [INFO] - Published message 1736359005116
+2025-01-08 23:26:45,116 - __main__ - [INFO] - Total messages published: 252
+2025-01-08 23:26:47,117 - __main__ - [INFO] - Published message 1736359007116
+2025-01-08 23:26:47,117 - __main__ - [INFO] - Total messages published: 253
+2025-01-08 23:26:49,117 - __main__ - [INFO] - Published message 1736359009117
+2025-01-08 23:26:49,118 - __main__ - [INFO] - Total messages published: 254
+2025-01-08 23:26:51,118 - __main__ - [INFO] - Published message 1736359011118
+2025-01-08 23:26:51,118 - __main__ - [INFO] - Total messages published: 255
+2025-01-08 23:26:53,119 - __main__ - [INFO] - Published message 1736359013119
+2025-01-08 23:26:53,119 - __main__ - [INFO] - Total messages published: 256
+2025-01-08 23:26:55,120 - __main__ - [INFO] - Published message 1736359015119
+2025-01-08 23:26:55,120 - __main__ - [INFO] - Total messages published: 257
+2025-01-08 23:26:57,121 - __main__ - [INFO] - Published message 1736359017120
+2025-01-08 23:26:57,121 - __main__ - [INFO] - Total messages published: 258
+2025-01-08 23:26:59,121 - __main__ - [INFO] - Published message 1736359019121
+2025-01-08 23:26:59,121 - __main__ - [INFO] - Total messages published: 259
+2025-01-08 23:27:01,122 - __main__ - [INFO] - Published message 1736359021122
+2025-01-08 23:27:01,122 - __main__ - [INFO] - Total messages published: 260
+2025-01-08 23:27:03,122 - __main__ - [INFO] - Published message 1736359023122
+2025-01-08 23:27:03,123 - __main__ - [INFO] - Total messages published: 261
+2025-01-08 23:27:05,123 - __main__ - [INFO] - Published message 1736359025123
+2025-01-08 23:27:05,123 - __main__ - [INFO] - Total messages published: 262
+2025-01-08 23:27:07,124 - __main__ - [INFO] - Published message 1736359027123
+2025-01-08 23:27:07,124 - __main__ - [INFO] - Total messages published: 263
+2025-01-08 23:27:09,124 - __main__ - [INFO] - Published message 1736359029124
+2025-01-08 23:27:09,125 - __main__ - [INFO] - Total messages published: 264
+2025-01-08 23:27:11,125 - __main__ - [INFO] - Published message 1736359031125
+2025-01-08 23:27:11,125 - __main__ - [INFO] - Total messages published: 265
+2025-01-08 23:27:13,126 - __main__ - [INFO] - Published message 1736359033125
+2025-01-08 23:27:13,126 - __main__ - [INFO] - Total messages published: 266
+2025-01-08 23:27:15,126 - __main__ - [INFO] - Published message 1736359035126
+2025-01-08 23:27:15,126 - __main__ - [INFO] - Total messages published: 267
+2025-01-08 23:27:17,127 - __main__ - [INFO] - Published message 1736359037127
+2025-01-08 23:27:17,127 - __main__ - [INFO] - Total messages published: 268
+2025-01-08 23:27:19,128 - __main__ - [INFO] - Published message 1736359039127
+2025-01-08 23:27:19,128 - __main__ - [INFO] - Total messages published: 269
+2025-01-08 23:27:21,128 - __main__ - [INFO] - Published message 1736359041128
+2025-01-08 23:27:21,129 - __main__ - [INFO] - Total messages published: 270
+2025-01-08 23:27:23,129 - __main__ - [INFO] - Published message 1736359043129
+2025-01-08 23:27:23,129 - __main__ - [INFO] - Total messages published: 271
+2025-01-08 23:27:25,130 - __main__ - [INFO] - Published message 1736359045129
+2025-01-08 23:27:25,130 - __main__ - [INFO] - Total messages published: 272
+2025-01-08 23:27:27,130 - __main__ - [INFO] - Published message 1736359047130
+2025-01-08 23:27:27,130 - __main__ - [INFO] - Total messages published: 273
+2025-01-08 23:27:29,131 - __main__ - [INFO] - Published message 1736359049131
+2025-01-08 23:27:29,131 - __main__ - [INFO] - Total messages published: 274
+2025-01-08 23:27:31,132 - __main__ - [INFO] - Published message 1736359051131
+2025-01-08 23:27:31,132 - __main__ - [INFO] - Total messages published: 275
+2025-01-08 23:27:33,132 - __main__ - [INFO] - Published message 1736359053132
+2025-01-08 23:27:33,133 - __main__ - [INFO] - Total messages published: 276
+2025-01-08 23:27:35,133 - __main__ - [INFO] - Published message 1736359055133
+2025-01-08 23:27:35,134 - __main__ - [INFO] - Total messages published: 277
+2025-01-08 23:27:37,134 - __main__ - [INFO] - Published message 1736359057134
+2025-01-08 23:27:37,134 - __main__ - [INFO] - Total messages published: 278
+2025-01-08 23:27:39,135 - __main__ - [INFO] - Published message 1736359059135
+2025-01-08 23:27:39,135 - __main__ - [INFO] - Total messages published: 279
+2025-01-08 23:27:41,136 - __main__ - [INFO] - Published message 1736359061135
+2025-01-08 23:27:41,136 - __main__ - [INFO] - Total messages published: 280
+2025-01-08 23:27:43,136 - __main__ - [INFO] - Published message 1736359063136
+2025-01-08 23:27:43,136 - __main__ - [INFO] - Total messages published: 281
+2025-01-08 23:27:45,137 - __main__ - [INFO] - Published message 1736359065137
+2025-01-08 23:27:45,137 - __main__ - [INFO] - Total messages published: 282
+2025-01-08 23:27:47,137 - __main__ - [INFO] - Published message 1736359067137
+2025-01-08 23:27:47,138 - __main__ - [INFO] - Total messages published: 283
+2025-01-08 23:27:49,138 - __main__ - [INFO] - Published message 1736359069138
+2025-01-08 23:27:49,138 - __main__ - [INFO] - Total messages published: 284
+2025-01-08 23:27:51,139 - __main__ - [INFO] - Published message 1736359071138
+2025-01-08 23:27:51,139 - __main__ - [INFO] - Total messages published: 285
+2025-01-08 23:27:53,139 - __main__ - [INFO] - Published message 1736359073139
+2025-01-08 23:27:53,140 - __main__ - [INFO] - Total messages published: 286
+2025-01-08 23:27:55,140 - __main__ - [INFO] - Published message 1736359075140
+2025-01-08 23:27:55,140 - __main__ - [INFO] - Total messages published: 287
+2025-01-08 23:27:57,141 - __main__ - [INFO] - Published message 1736359077141
+2025-01-08 23:27:57,141 - __main__ - [INFO] - Total messages published: 288
+2025-01-08 23:27:59,142 - __main__ - [INFO] - Published message 1736359079141
+2025-01-08 23:27:59,142 - __main__ - [INFO] - Total messages published: 289
+2025-01-08 23:28:01,142 - __main__ - [INFO] - Published message 1736359081142
+2025-01-08 23:28:01,142 - __main__ - [INFO] - Total messages published: 290
+2025-01-08 23:28:03,143 - __main__ - [INFO] - Published message 1736359083143
+2025-01-08 23:28:03,143 - __main__ - [INFO] - Total messages published: 291
+2025-01-08 23:28:05,143 - __main__ - [INFO] - Published message 1736359085143
+2025-01-08 23:28:05,144 - __main__ - [INFO] - Total messages published: 292
+2025-01-08 23:28:07,144 - __main__ - [INFO] - Published message 1736359087144
+2025-01-08 23:28:07,144 - __main__ - [INFO] - Total messages published: 293
+2025-01-08 23:28:09,145 - __main__ - [INFO] - Published message 1736359089144
+2025-01-08 23:28:09,145 - __main__ - [INFO] - Total messages published: 294
+2025-01-08 23:28:11,145 - __main__ - [INFO] - Published message 1736359091145
+2025-01-08 23:28:11,145 - __main__ - [INFO] - Total messages published: 295
+2025-01-08 23:28:13,146 - __main__ - [INFO] - Published message 1736359093146
+2025-01-08 23:28:13,146 - __main__ - [INFO] - Total messages published: 296
+2025-01-08 23:28:15,146 - __main__ - [INFO] - Published message 1736359095146
+2025-01-08 23:28:15,147 - __main__ - [INFO] - Total messages published: 297
+2025-01-08 23:28:17,147 - __main__ - [INFO] - Published message 1736359097147
+2025-01-08 23:28:17,147 - __main__ - [INFO] - Total messages published: 298
+2025-01-08 23:28:19,148 - __main__ - [INFO] - Published message 1736359099147
+2025-01-08 23:28:19,148 - __main__ - [INFO] - Total messages published: 299
+2025-01-08 23:28:21,148 - __main__ - [INFO] - Published message 1736359101148
+2025-01-08 23:28:21,149 - __main__ - [INFO] - Total messages published: 300
+2025-01-08 23:28:23,149 - __main__ - [INFO] - Published message 1736359103149
+2025-01-08 23:28:23,149 - __main__ - [INFO] - Total messages published: 301
+2025-01-08 23:28:25,150 - __main__ - [INFO] - Published message 1736359105149
+2025-01-08 23:28:25,150 - __main__ - [INFO] - Total messages published: 302
+2025-01-08 23:28:27,150 - __main__ - [INFO] - Published message 1736359107150
+2025-01-08 23:28:27,151 - __main__ - [INFO] - Total messages published: 303
+2025-01-08 23:28:29,151 - __main__ - [INFO] - Published message 1736359109151
+2025-01-08 23:28:29,151 - __main__ - [INFO] - Total messages published: 304
+2025-01-08 23:28:31,152 - __main__ - [INFO] - Published message 1736359111151
+2025-01-08 23:28:31,152 - __main__ - [INFO] - Total messages published: 305
+2025-01-08 23:28:33,152 - __main__ - [INFO] - Published message 1736359113152
+2025-01-08 23:28:33,152 - __main__ - [INFO] - Total messages published: 306
+2025-01-08 23:28:35,153 - __main__ - [INFO] - Published message 1736359115152
+2025-01-08 23:28:35,153 - __main__ - [INFO] - Total messages published: 307
+2025-01-08 23:28:37,153 - __main__ - [INFO] - Published message 1736359117153
+2025-01-08 23:28:37,153 - __main__ - [INFO] - Total messages published: 308
+2025-01-08 23:28:39,154 - __main__ - [INFO] - Published message 1736359119154
+2025-01-08 23:28:39,154 - __main__ - [INFO] - Total messages published: 309
+2025-01-08 23:28:41,154 - __main__ - [INFO] - Published message 1736359121154
+2025-01-08 23:28:41,155 - __main__ - [INFO] - Total messages published: 310
+2025-01-08 23:28:43,155 - __main__ - [INFO] - Published message 1736359123155
+2025-01-08 23:28:43,155 - __main__ - [INFO] - Total messages published: 311
+2025-01-08 23:28:45,156 - __main__ - [INFO] - Published message 1736359125155
+2025-01-08 23:28:45,156 - __main__ - [INFO] - Total messages published: 312
+2025-01-08 23:28:47,157 - __main__ - [INFO] - Published message 1736359127156
+2025-01-08 23:28:47,157 - __main__ - [INFO] - Total messages published: 313
+2025-01-08 23:28:49,157 - __main__ - [INFO] - Published message 1736359129157
+2025-01-08 23:28:49,157 - __main__ - [INFO] - Total messages published: 314
+2025-01-08 23:28:51,158 - __main__ - [INFO] - Published message 1736359131158
+2025-01-08 23:28:51,158 - __main__ - [INFO] - Total messages published: 315
+2025-01-08 23:28:53,159 - __main__ - [INFO] - Published message 1736359133158
+2025-01-08 23:28:53,159 - __main__ - [INFO] - Total messages published: 316
+2025-01-08 23:28:55,159 - __main__ - [INFO] - Published message 1736359135159
+2025-01-08 23:28:55,160 - __main__ - [INFO] - Total messages published: 317
+2025-01-08 23:28:57,160 - __main__ - [INFO] - Published message 1736359137160
+2025-01-08 23:28:57,160 - __main__ - [INFO] - Total messages published: 318
+2025-01-08 23:28:59,161 - __main__ - [INFO] - Published message 1736359139160
+2025-01-08 23:28:59,161 - __main__ - [INFO] - Total messages published: 319
+2025-01-08 23:29:01,162 - __main__ - [INFO] - Published message 1736359141161
+2025-01-08 23:29:01,162 - __main__ - [INFO] - Total messages published: 320
+2025-01-08 23:29:03,163 - __main__ - [INFO] - Published message 1736359143162
+2025-01-08 23:29:03,163 - __main__ - [INFO] - Total messages published: 321
+2025-01-08 23:29:05,163 - __main__ - [INFO] - Published message 1736359145163
+2025-01-08 23:29:05,163 - __main__ - [INFO] - Total messages published: 322
+2025-01-08 23:29:07,164 - __main__ - [INFO] - Published message 1736359147164
+2025-01-08 23:29:07,164 - __main__ - [INFO] - Total messages published: 323
+2025-01-08 23:29:09,164 - __main__ - [INFO] - Published message 1736359149164
+2025-01-08 23:29:09,165 - __main__ - [INFO] - Total messages published: 324
+2025-01-08 23:29:11,165 - __main__ - [INFO] - Published message 1736359151165
+2025-01-08 23:29:11,165 - __main__ - [INFO] - Total messages published: 325
+2025-01-08 23:29:13,166 - __main__ - [INFO] - Published message 1736359153165
+2025-01-08 23:29:13,166 - __main__ - [INFO] - Total messages published: 326
+2025-01-08 23:29:15,166 - __main__ - [INFO] - Published message 1736359155166
+2025-01-08 23:29:15,166 - __main__ - [INFO] - Total messages published: 327
+2025-01-08 23:29:17,167 - __main__ - [INFO] - Published message 1736359157167
+2025-01-08 23:29:17,167 - __main__ - [INFO] - Total messages published: 328
+2025-01-08 23:29:19,167 - __main__ - [INFO] - Published message 1736359159167
+2025-01-08 23:29:19,168 - __main__ - [INFO] - Total messages published: 329
+2025-01-08 23:29:21,168 - __main__ - [INFO] - Published message 1736359161168
+2025-01-08 23:29:21,168 - __main__ - [INFO] - Total messages published: 330
+2025-01-08 23:29:23,169 - __main__ - [INFO] - Published message 1736359163168
+2025-01-08 23:29:23,169 - __main__ - [INFO] - Total messages published: 331
+2025-01-08 23:29:25,169 - __main__ - [INFO] - Published message 1736359165169
+2025-01-08 23:29:25,170 - __main__ - [INFO] - Total messages published: 332
+2025-01-08 23:29:27,170 - __main__ - [INFO] - Published message 1736359167170
+2025-01-08 23:29:27,170 - __main__ - [INFO] - Total messages published: 333
+2025-01-08 23:29:29,171 - __main__ - [INFO] - Published message 1736359169171
+2025-01-08 23:29:29,171 - __main__ - [INFO] - Total messages published: 334
+2025-01-08 23:29:31,171 - __main__ - [INFO] - Published message 1736359171171
+2025-01-08 23:29:31,172 - __main__ - [INFO] - Total messages published: 335
+2025-01-08 23:29:33,172 - __main__ - [INFO] - Published message 1736359173172
+2025-01-08 23:29:33,172 - __main__ - [INFO] - Total messages published: 336
+2025-01-08 23:29:35,173 - __main__ - [INFO] - Published message 1736359175172
+2025-01-08 23:29:35,173 - __main__ - [INFO] - Total messages published: 337
+2025-01-08 23:29:37,173 - __main__ - [INFO] - Published message 1736359177173
+2025-01-08 23:29:37,173 - __main__ - [INFO] - Total messages published: 338
+2025-01-08 23:29:39,174 - __main__ - [INFO] - Published message 1736359179174
+2025-01-08 23:29:39,174 - __main__ - [INFO] - Total messages published: 339
+2025-01-08 23:29:41,175 - __main__ - [INFO] - Published message 1736359181174
+2025-01-08 23:29:41,175 - __main__ - [INFO] - Total messages published: 340
+2025-01-08 23:29:43,175 - __main__ - [INFO] - Published message 1736359183175
+2025-01-08 23:29:43,175 - __main__ - [INFO] - Total messages published: 341
+2025-01-08 23:29:45,176 - __main__ - [INFO] - Published message 1736359185176
+2025-01-08 23:29:45,176 - __main__ - [INFO] - Total messages published: 342
+2025-01-08 23:29:47,176 - __main__ - [INFO] - Published message 1736359187176
+2025-01-08 23:29:47,177 - __main__ - [INFO] - Total messages published: 343
+2025-01-08 23:29:49,177 - __main__ - [INFO] - Published message 1736359189177
+2025-01-08 23:29:49,177 - __main__ - [INFO] - Total messages published: 344
+2025-01-08 23:29:51,178 - __main__ - [INFO] - Published message 1736359191177
+2025-01-08 23:29:51,178 - __main__ - [INFO] - Total messages published: 345
+2025-01-08 23:29:53,178 - __main__ - [INFO] - Published message 1736359193178
+2025-01-08 23:29:53,179 - __main__ - [INFO] - Total messages published: 346
+2025-01-08 23:29:55,179 - __main__ - [INFO] - Published message 1736359195179
+2025-01-08 23:29:55,179 - __main__ - [INFO] - Total messages published: 347
+2025-01-08 23:29:57,180 - __main__ - [INFO] - Published message 1736359197179
+2025-01-08 23:29:57,180 - __main__ - [INFO] - Total messages published: 348
+2025-01-08 23:29:59,180 - __main__ - [INFO] - Published message 1736359199180
+2025-01-08 23:29:59,180 - __main__ - [INFO] - Total messages published: 349
+2025-01-08 23:30:01,181 - __main__ - [INFO] - Published message 1736359201181
+2025-01-08 23:30:01,181 - __main__ - [INFO] - Total messages published: 350
+2025-01-08 23:30:03,182 - __main__ - [INFO] - Published message 1736359203181
+2025-01-08 23:30:03,182 - __main__ - [INFO] - Total messages published: 351
+2025-01-08 23:30:05,182 - __main__ - [INFO] - Published message 1736359205182
+2025-01-08 23:30:05,182 - __main__ - [INFO] - Total messages published: 352
+2025-01-08 23:30:07,183 - __main__ - [INFO] - Published message 1736359207183
+2025-01-08 23:30:07,183 - __main__ - [INFO] - Total messages published: 353
+2025-01-08 23:30:09,184 - __main__ - [INFO] - Published message 1736359209183
+2025-01-08 23:30:09,184 - __main__ - [INFO] - Total messages published: 354
+2025-01-08 23:30:11,184 - __main__ - [INFO] - Published message 1736359211184
+2025-01-08 23:30:11,185 - __main__ - [INFO] - Total messages published: 355
+2025-01-08 23:30:13,185 - __main__ - [INFO] - Published message 1736359213185
+2025-01-08 23:30:13,185 - __main__ - [INFO] - Total messages published: 356
+2025-01-08 23:30:15,186 - __main__ - [INFO] - Published message 1736359215185
+2025-01-08 23:30:15,186 - __main__ - [INFO] - Total messages published: 357
+2025-01-08 23:30:17,187 - __main__ - [INFO] - Published message 1736359217186
+2025-01-08 23:30:17,187 - __main__ - [INFO] - Total messages published: 358
+2025-01-08 23:30:19,187 - __main__ - [INFO] - Published message 1736359219187
+2025-01-08 23:30:19,187 - __main__ - [INFO] - Total messages published: 359
+2025-01-08 23:30:21,188 - __main__ - [INFO] - Published message 1736359221188
+2025-01-08 23:30:21,188 - __main__ - [INFO] - Total messages published: 360
+2025-01-08 23:30:23,188 - __main__ - [INFO] - Published message 1736359223188
+2025-01-08 23:30:23,189 - __main__ - [INFO] - Total messages published: 361
+2025-01-08 23:30:25,189 - __main__ - [INFO] - Published message 1736359225189
+2025-01-08 23:30:25,189 - __main__ - [INFO] - Total messages published: 362
+2025-01-08 23:30:27,189 - __main__ - [INFO] - Published message 1736359227189
+2025-01-08 23:30:27,190 - __main__ - [INFO] - Total messages published: 363
+2025-01-08 23:30:29,190 - __main__ - [INFO] - Published message 1736359229190
+2025-01-08 23:30:29,190 - __main__ - [INFO] - Total messages published: 364
+2025-01-08 23:30:31,191 - __main__ - [INFO] - Published message 1736359231190
+2025-01-08 23:30:31,191 - __main__ - [INFO] - Total messages published: 365
+2025-01-08 23:30:33,191 - __main__ - [INFO] - Published message 1736359233191
+2025-01-08 23:30:33,192 - __main__ - [INFO] - Total messages published: 366
+2025-01-08 23:30:35,192 - __main__ - [INFO] - Published message 1736359235192
+2025-01-08 23:30:35,192 - __main__ - [INFO] - Total messages published: 367
+2025-01-08 23:30:37,193 - __main__ - [INFO] - Published message 1736359237192
+2025-01-08 23:30:37,193 - __main__ - [INFO] - Total messages published: 368
+2025-01-08 23:30:39,193 - __main__ - [INFO] - Published message 1736359239193
+2025-01-08 23:30:39,194 - __main__ - [INFO] - Total messages published: 369
+2025-01-08 23:30:41,194 - __main__ - [INFO] - Published message 1736359241194
+2025-01-08 23:30:41,194 - __main__ - [INFO] - Total messages published: 370
+2025-01-08 23:30:43,195 - __main__ - [INFO] - Published message 1736359243194
+2025-01-08 23:30:43,195 - __main__ - [INFO] - Total messages published: 371
+2025-01-08 23:30:45,195 - __main__ - [INFO] - Published message 1736359245195
+2025-01-08 23:30:45,195 - __main__ - [INFO] - Total messages published: 372
+2025-01-08 23:30:47,196 - __main__ - [INFO] - Published message 1736359247196
+2025-01-08 23:30:47,196 - __main__ - [INFO] - Total messages published: 373
+2025-01-08 23:30:49,196 - __main__ - [INFO] - Published message 1736359249196
+2025-01-08 23:30:49,197 - __main__ - [INFO] - Total messages published: 374
+2025-01-08 23:30:51,197 - __main__ - [INFO] - Published message 1736359251197
+2025-01-08 23:30:51,197 - __main__ - [INFO] - Total messages published: 375
+2025-01-08 23:30:53,198 - __main__ - [INFO] - Published message 1736359253197
+2025-01-08 23:30:53,198 - __main__ - [INFO] - Total messages published: 376
+2025-01-08 23:30:55,198 - __main__ - [INFO] - Published message 1736359255198
+2025-01-08 23:30:55,199 - __main__ - [INFO] - Total messages published: 377
+2025-01-08 23:30:57,199 - __main__ - [INFO] - Published message 1736359257199
+2025-01-08 23:30:57,199 - __main__ - [INFO] - Total messages published: 378
+2025-01-08 23:30:59,200 - __main__ - [INFO] - Published message 1736359259200
+2025-01-08 23:30:59,200 - __main__ - [INFO] - Total messages published: 379
+2025-01-08 23:31:01,200 - __main__ - [INFO] - Published message 1736359261200
+2025-01-08 23:31:01,201 - __main__ - [INFO] - Total messages published: 380
+2025-01-08 23:31:03,201 - __main__ - [INFO] - Published message 1736359263201
+2025-01-08 23:31:03,202 - __main__ - [INFO] - Total messages published: 381
+2025-01-08 23:31:05,202 - __main__ - [INFO] - Published message 1736359265202
+2025-01-08 23:31:05,202 - __main__ - [INFO] - Total messages published: 382
+2025-01-08 23:31:07,203 - __main__ - [INFO] - Published message 1736359267203
+2025-01-08 23:31:07,203 - __main__ - [INFO] - Total messages published: 383
+2025-01-08 23:31:09,204 - __main__ - [INFO] - Published message 1736359269203
+2025-01-08 23:31:09,204 - __main__ - [INFO] - Total messages published: 384
+2025-01-08 23:31:11,204 - __main__ - [INFO] - Published message 1736359271204
+2025-01-08 23:31:11,204 - __main__ - [INFO] - Total messages published: 385
+2025-01-08 23:31:13,205 - __main__ - [INFO] - Published message 1736359273205
+2025-01-08 23:31:13,205 - __main__ - [INFO] - Total messages published: 386
+2025-01-08 23:31:15,205 - __main__ - [INFO] - Published message 1736359275205
+2025-01-08 23:31:15,206 - __main__ - [INFO] - Total messages published: 387
+2025-01-08 23:31:17,206 - __main__ - [INFO] - Published message 1736359277206
+2025-01-08 23:31:17,206 - __main__ - [INFO] - Total messages published: 388
+2025-01-08 23:31:19,207 - __main__ - [INFO] - Published message 1736359279206
+2025-01-08 23:31:19,207 - __main__ - [INFO] - Total messages published: 389
+2025-01-08 23:31:21,207 - __main__ - [INFO] - Published message 1736359281207
+2025-01-08 23:31:21,207 - __main__ - [INFO] - Total messages published: 390
+2025-01-08 23:31:23,208 - __main__ - [INFO] - Published message 1736359283208
+2025-01-08 23:31:23,208 - __main__ - [INFO] - Total messages published: 391
+2025-01-08 23:31:25,209 - __main__ - [INFO] - Published message 1736359285208
+2025-01-08 23:31:25,209 - __main__ - [INFO] - Total messages published: 392
+2025-01-08 23:31:27,209 - __main__ - [INFO] - Published message 1736359287209
+2025-01-08 23:31:27,209 - __main__ - [INFO] - Total messages published: 393
+2025-01-08 23:31:29,210 - __main__ - [INFO] - Published message 1736359289210
+2025-01-08 23:31:29,210 - __main__ - [INFO] - Total messages published: 394
+2025-01-08 23:31:31,211 - __main__ - [INFO] - Published message 1736359291210
+2025-01-08 23:31:31,211 - __main__ - [INFO] - Total messages published: 395
+2025-01-08 23:31:33,211 - __main__ - [INFO] - Published message 1736359293211
+2025-01-08 23:31:33,212 - __main__ - [INFO] - Total messages published: 396
+2025-01-08 23:31:35,212 - __main__ - [INFO] - Published message 1736359295212
+2025-01-08 23:31:35,212 - __main__ - [INFO] - Total messages published: 397
+2025-01-08 23:31:37,212 - __main__ - [INFO] - Published message 1736359297212
+2025-01-08 23:31:37,213 - __main__ - [INFO] - Total messages published: 398
+2025-01-08 23:31:39,213 - __main__ - [INFO] - Published message 1736359299213
+2025-01-08 23:31:39,213 - __main__ - [INFO] - Total messages published: 399
+2025-01-08 23:31:41,214 - __main__ - [INFO] - Published message 1736359301213
+2025-01-08 23:31:41,214 - __main__ - [INFO] - Total messages published: 400
+2025-01-08 23:31:43,215 - __main__ - [INFO] - Published message 1736359303214
+2025-01-08 23:31:43,215 - __main__ - [INFO] - Total messages published: 401
+2025-01-08 23:31:45,215 - __main__ - [INFO] - Published message 1736359305215
+2025-01-08 23:31:45,215 - __main__ - [INFO] - Total messages published: 402
+2025-01-08 23:31:47,216 - __main__ - [INFO] - Published message 1736359307216
+2025-01-08 23:31:47,216 - __main__ - [INFO] - Total messages published: 403
+2025-01-08 23:31:49,217 - __main__ - [INFO] - Published message 1736359309216
+2025-01-08 23:31:49,217 - __main__ - [INFO] - Total messages published: 404
+2025-01-08 23:31:51,217 - __main__ - [INFO] - Published message 1736359311217
+2025-01-08 23:31:51,217 - __main__ - [INFO] - Total messages published: 405
+2025-01-08 23:31:53,218 - __main__ - [INFO] - Published message 1736359313218
+2025-01-08 23:31:53,218 - __main__ - [INFO] - Total messages published: 406
+2025-01-08 23:31:55,219 - __main__ - [INFO] - Published message 1736359315218
+2025-01-08 23:31:55,219 - __main__ - [INFO] - Total messages published: 407
+2025-01-08 23:31:57,219 - __main__ - [INFO] - Published message 1736359317219
+2025-01-08 23:31:57,219 - __main__ - [INFO] - Total messages published: 408
+2025-01-08 23:31:59,220 - __main__ - [INFO] - Published message 1736359319220
+2025-01-08 23:31:59,220 - __main__ - [INFO] - Total messages published: 409
+2025-01-08 23:32:01,221 - __main__ - [INFO] - Published message 1736359321220
+2025-01-08 23:32:01,221 - __main__ - [INFO] - Total messages published: 410
+2025-01-08 23:32:03,221 - __main__ - [INFO] - Published message 1736359323221
+2025-01-08 23:32:03,221 - __main__ - [INFO] - Total messages published: 411
+2025-01-08 23:32:05,222 - __main__ - [INFO] - Published message 1736359325222
+2025-01-08 23:32:05,222 - __main__ - [INFO] - Total messages published: 412
+2025-01-08 23:32:07,223 - __main__ - [INFO] - Published message 1736359327222
+2025-01-08 23:32:07,223 - __main__ - [INFO] - Total messages published: 413
+2025-01-08 23:32:09,223 - __main__ - [INFO] - Published message 1736359329223
+2025-01-08 23:32:09,223 - __main__ - [INFO] - Total messages published: 414
+2025-01-08 23:32:11,224 - __main__ - [INFO] - Published message 1736359331224
+2025-01-08 23:32:11,224 - __main__ - [INFO] - Total messages published: 415
+2025-01-08 23:32:13,225 - __main__ - [INFO] - Published message 1736359333224
+2025-01-08 23:32:13,225 - __main__ - [INFO] - Total messages published: 416
+2025-01-08 23:32:15,225 - __main__ - [INFO] - Published message 1736359335225
+2025-01-08 23:32:15,225 - __main__ - [INFO] - Total messages published: 417
+2025-01-08 23:32:17,226 - __main__ - [INFO] - Published message 1736359337225
+2025-01-08 23:32:17,226 - __main__ - [INFO] - Total messages published: 418
+2025-01-08 23:32:19,226 - __main__ - [INFO] - Published message 1736359339226
+2025-01-08 23:32:19,226 - __main__ - [INFO] - Total messages published: 419
+2025-01-08 23:32:21,227 - __main__ - [INFO] - Published message 1736359341227
+2025-01-08 23:32:21,227 - __main__ - [INFO] - Total messages published: 420
+2025-01-08 23:32:23,228 - __main__ - [INFO] - Published message 1736359343227
+2025-01-08 23:32:23,228 - __main__ - [INFO] - Total messages published: 421
+2025-01-08 23:32:25,228 - __main__ - [INFO] - Published message 1736359345228
+2025-01-08 23:32:25,228 - __main__ - [INFO] - Total messages published: 422
+2025-01-08 23:32:27,229 - __main__ - [INFO] - Published message 1736359347228
+2025-01-08 23:32:27,229 - __main__ - [INFO] - Total messages published: 423
+2025-01-08 23:32:29,229 - __main__ - [INFO] - Published message 1736359349229
+2025-01-08 23:32:29,230 - __main__ - [INFO] - Total messages published: 424
+2025-01-08 23:32:31,230 - __main__ - [INFO] - Published message 1736359351230
+2025-01-08 23:32:31,230 - __main__ - [INFO] - Total messages published: 425
+2025-01-08 23:32:33,231 - __main__ - [INFO] - Published message 1736359353230
+2025-01-08 23:32:33,231 - __main__ - [INFO] - Total messages published: 426
+2025-01-08 23:32:35,231 - __main__ - [INFO] - Published message 1736359355231
+2025-01-08 23:32:35,231 - __main__ - [INFO] - Total messages published: 427
+2025-01-08 23:32:37,232 - __main__ - [INFO] - Published message 1736359357232
+2025-01-08 23:32:37,232 - __main__ - [INFO] - Total messages published: 428
+2025-01-08 23:32:39,233 - __main__ - [INFO] - Published message 1736359359232
+2025-01-08 23:32:39,233 - __main__ - [INFO] - Total messages published: 429
+2025-01-08 23:32:41,233 - __main__ - [INFO] - Published message 1736359361233
+2025-01-08 23:32:41,233 - __main__ - [INFO] - Total messages published: 430
+2025-01-08 23:32:43,234 - __main__ - [INFO] - Published message 1736359363234
+2025-01-08 23:32:43,234 - __main__ - [INFO] - Total messages published: 431
+2025-01-08 23:32:45,234 - __main__ - [INFO] - Published message 1736359365234
+2025-01-08 23:32:45,235 - __main__ - [INFO] - Total messages published: 432
+2025-01-08 23:32:47,235 - __main__ - [INFO] - Published message 1736359367235
+2025-01-08 23:32:47,235 - __main__ - [INFO] - Total messages published: 433
+2025-01-08 23:32:49,236 - __main__ - [INFO] - Published message 1736359369235
+2025-01-08 23:32:49,236 - __main__ - [INFO] - Total messages published: 434
+2025-01-08 23:32:51,236 - __main__ - [INFO] - Published message 1736359371236
+2025-01-08 23:32:51,236 - __main__ - [INFO] - Total messages published: 435
+2025-01-08 23:32:53,237 - __main__ - [INFO] - Published message 1736359373237
+2025-01-08 23:32:53,237 - __main__ - [INFO] - Total messages published: 436
+2025-01-08 23:32:55,238 - __main__ - [INFO] - Published message 1736359375237
+2025-01-08 23:32:55,238 - __main__ - [INFO] - Total messages published: 437
+2025-01-08 23:32:57,238 - __main__ - [INFO] - Published message 1736359377238
+2025-01-08 23:32:57,239 - __main__ - [INFO] - Total messages published: 438
+2025-01-08 23:32:59,239 - __main__ - [INFO] - Published message 1736359379239
+2025-01-08 23:32:59,239 - __main__ - [INFO] - Total messages published: 439
+2025-01-08 23:33:01,240 - __main__ - [INFO] - Published message 1736359381240
+2025-01-08 23:33:01,240 - __main__ - [INFO] - Total messages published: 440
+2025-01-08 23:33:03,240 - __main__ - [INFO] - Published message 1736359383240
+2025-01-08 23:33:03,241 - __main__ - [INFO] - Total messages published: 441
+2025-01-08 23:33:05,241 - __main__ - [INFO] - Published message 1736359385241
+2025-01-08 23:33:05,241 - __main__ - [INFO] - Total messages published: 442
+2025-01-08 23:33:07,242 - __main__ - [INFO] - Published message 1736359387242
+2025-01-08 23:33:07,242 - __main__ - [INFO] - Total messages published: 443
+2025-01-08 23:33:09,243 - __main__ - [INFO] - Published message 1736359389242
+2025-01-08 23:33:09,243 - __main__ - [INFO] - Total messages published: 444
+2025-01-08 23:33:11,243 - __main__ - [INFO] - Published message 1736359391243
+2025-01-08 23:33:11,243 - __main__ - [INFO] - Total messages published: 445
+2025-01-08 23:33:13,244 - __main__ - [INFO] - Published message 1736359393244
+2025-01-08 23:33:13,244 - __main__ - [INFO] - Total messages published: 446
+2025-01-08 23:33:15,245 - __main__ - [INFO] - Published message 1736359395244
+2025-01-08 23:33:15,245 - __main__ - [INFO] - Total messages published: 447
+2025-01-08 23:33:17,245 - __main__ - [INFO] - Published message 1736359397245
+2025-01-08 23:33:17,245 - __main__ - [INFO] - Total messages published: 448
+2025-01-08 23:33:19,246 - __main__ - [INFO] - Published message 1736359399246
+2025-01-08 23:33:19,247 - __main__ - [INFO] - Total messages published: 449
+2025-01-08 23:33:21,247 - __main__ - [INFO] - Published message 1736359401247
+2025-01-08 23:33:21,247 - __main__ - [INFO] - Total messages published: 450
+2025-01-08 23:33:23,248 - __main__ - [INFO] - Published message 1736359403247
+2025-01-08 23:33:23,248 - __main__ - [INFO] - Total messages published: 451
+2025-01-08 23:33:25,248 - __main__ - [INFO] - Published message 1736359405248
+2025-01-08 23:33:25,248 - __main__ - [INFO] - Total messages published: 452
+2025-01-08 23:33:27,249 - __main__ - [INFO] - Published message 1736359407249
+2025-01-08 23:33:27,249 - __main__ - [INFO] - Total messages published: 453
+2025-01-08 23:33:29,249 - __main__ - [INFO] - Published message 1736359409249
+2025-01-08 23:33:29,250 - __main__ - [INFO] - Total messages published: 454
+2025-01-08 23:33:31,250 - __main__ - [INFO] - Published message 1736359411250
+2025-01-08 23:33:31,250 - __main__ - [INFO] - Total messages published: 455
+2025-01-08 23:33:33,251 - __main__ - [INFO] - Published message 1736359413250
+2025-01-08 23:33:33,251 - __main__ - [INFO] - Total messages published: 456
+2025-01-08 23:33:35,251 - __main__ - [INFO] - Published message 1736359415251
+2025-01-08 23:33:35,251 - __main__ - [INFO] - Total messages published: 457
+2025-01-08 23:33:37,252 - __main__ - [INFO] - Published message 1736359417252
+2025-01-08 23:33:37,252 - __main__ - [INFO] - Total messages published: 458
+2025-01-08 23:33:39,253 - __main__ - [INFO] - Published message 1736359419252
+2025-01-08 23:33:39,253 - __main__ - [INFO] - Total messages published: 459
+2025-01-08 23:33:41,253 - __main__ - [INFO] - Published message 1736359421253
+2025-01-08 23:33:41,253 - __main__ - [INFO] - Total messages published: 460
+2025-01-08 23:33:43,254 - __main__ - [INFO] - Published message 1736359423254
+2025-01-08 23:33:43,254 - __main__ - [INFO] - Total messages published: 461
+2025-01-08 23:33:45,255 - __main__ - [INFO] - Published message 1736359425254
+2025-01-08 23:33:45,255 - __main__ - [INFO] - Total messages published: 462
+2025-01-08 23:33:47,255 - __main__ - [INFO] - Published message 1736359427255
+2025-01-08 23:33:47,255 - __main__ - [INFO] - Total messages published: 463
+2025-01-08 23:33:49,256 - __main__ - [INFO] - Published message 1736359429256
+2025-01-08 23:33:49,256 - __main__ - [INFO] - Total messages published: 464
+2025-01-08 23:33:51,256 - __main__ - [INFO] - Published message 1736359431256
+2025-01-08 23:33:51,257 - __main__ - [INFO] - Total messages published: 465
+2025-01-08 23:33:53,257 - __main__ - [INFO] - Published message 1736359433257
+2025-01-08 23:33:53,257 - __main__ - [INFO] - Total messages published: 466
+2025-01-08 23:33:55,258 - __main__ - [INFO] - Published message 1736359435257
+2025-01-08 23:33:55,258 - __main__ - [INFO] - Total messages published: 467
+2025-01-08 23:33:57,258 - __main__ - [INFO] - Published message 1736359437258
+2025-01-08 23:33:57,258 - __main__ - [INFO] - Total messages published: 468
+2025-01-08 23:33:59,259 - __main__ - [INFO] - Published message 1736359439259
+2025-01-08 23:33:59,259 - __main__ - [INFO] - Total messages published: 469
+2025-01-08 23:34:01,260 - __main__ - [INFO] - Published message 1736359441259
+2025-01-08 23:34:01,260 - __main__ - [INFO] - Total messages published: 470
+2025-01-08 23:34:03,260 - __main__ - [INFO] - Published message 1736359443260
+2025-01-08 23:34:03,260 - __main__ - [INFO] - Total messages published: 471
+2025-01-08 23:34:05,261 - __main__ - [INFO] - Published message 1736359445261
+2025-01-08 23:34:05,261 - __main__ - [INFO] - Total messages published: 472
+2025-01-08 23:34:07,262 - __main__ - [INFO] - Published message 1736359447261
+2025-01-08 23:34:07,262 - __main__ - [INFO] - Total messages published: 473
+2025-01-08 23:34:09,262 - __main__ - [INFO] - Published message 1736359449262
+2025-01-08 23:34:09,262 - __main__ - [INFO] - Total messages published: 474
+2025-01-08 23:34:11,263 - __main__ - [INFO] - Published message 1736359451263
+2025-01-08 23:34:11,263 - __main__ - [INFO] - Total messages published: 475
+2025-01-08 23:34:13,264 - __main__ - [INFO] - Published message 1736359453263
+2025-01-08 23:34:13,264 - __main__ - [INFO] - Total messages published: 476
+2025-01-08 23:34:15,264 - __main__ - [INFO] - Published message 1736359455264
+2025-01-08 23:34:15,265 - __main__ - [INFO] - Total messages published: 477
+2025-01-08 23:34:17,265 - __main__ - [INFO] - Published message 1736359457265
+2025-01-08 23:34:17,265 - __main__ - [INFO] - Total messages published: 478
+2025-01-08 23:34:19,266 - __main__ - [INFO] - Published message 1736359459266
+2025-01-08 23:34:19,266 - __main__ - [INFO] - Total messages published: 479
+2025-01-08 23:34:21,267 - __main__ - [INFO] - Published message 1736359461266
+2025-01-08 23:34:21,267 - __main__ - [INFO] - Total messages published: 480
+2025-01-08 23:34:23,267 - __main__ - [INFO] - Published message 1736359463267
+2025-01-08 23:34:23,267 - __main__ - [INFO] - Total messages published: 481
+2025-01-08 23:34:25,269 - __main__ - [INFO] - Published message 1736359465269
+2025-01-08 23:34:25,269 - __main__ - [INFO] - Total messages published: 482
+2025-01-08 23:34:27,270 - __main__ - [INFO] - Published message 1736359467269
+2025-01-08 23:34:27,270 - __main__ - [INFO] - Total messages published: 483
+2025-01-08 23:34:29,270 - __main__ - [INFO] - Published message 1736359469270
+2025-01-08 23:34:29,270 - __main__ - [INFO] - Total messages published: 484
+2025-01-08 23:34:31,271 - __main__ - [INFO] - Published message 1736359471271
+2025-01-08 23:34:31,271 - __main__ - [INFO] - Total messages published: 485
+2025-01-08 23:34:33,272 - __main__ - [INFO] - Published message 1736359473272
+2025-01-08 23:34:33,272 - __main__ - [INFO] - Total messages published: 486
+2025-01-08 23:34:35,273 - __main__ - [INFO] - Published message 1736359475273
+2025-01-08 23:34:35,274 - __main__ - [INFO] - Total messages published: 487
+2025-01-08 23:34:37,274 - __main__ - [INFO] - Published message 1736359477274
+2025-01-08 23:34:37,274 - __main__ - [INFO] - Total messages published: 488
+2025-01-08 23:34:39,275 - __main__ - [INFO] - Published message 1736359479275
+2025-01-08 23:34:39,275 - __main__ - [INFO] - Total messages published: 489
+2025-01-08 23:34:41,276 - __main__ - [INFO] - Published message 1736359481275
+2025-01-08 23:34:41,276 - __main__ - [INFO] - Total messages published: 490
+2025-01-08 23:34:43,277 - __main__ - [INFO] - Published message 1736359483276
+2025-01-08 23:34:43,277 - __main__ - [INFO] - Total messages published: 491
+2025-01-08 23:34:45,278 - __main__ - [INFO] - Published message 1736359485277
+2025-01-08 23:34:45,278 - __main__ - [INFO] - Total messages published: 492
+2025-01-08 23:34:47,279 - __main__ - [INFO] - Published message 1736359487278
+2025-01-08 23:34:47,279 - __main__ - [INFO] - Total messages published: 493
+2025-01-08 23:34:49,279 - __main__ - [INFO] - Published message 1736359489279
+2025-01-08 23:34:49,280 - __main__ - [INFO] - Total messages published: 494
+2025-01-08 23:34:51,281 - __main__ - [INFO] - Published message 1736359491280
+2025-01-08 23:34:51,281 - __main__ - [INFO] - Total messages published: 495
+2025-01-08 23:34:53,281 - __main__ - [INFO] - Published message 1736359493281
+2025-01-08 23:34:53,281 - __main__ - [INFO] - Total messages published: 496
+2025-01-08 23:34:55,282 - __main__ - [INFO] - Published message 1736359495282
+2025-01-08 23:34:55,282 - __main__ - [INFO] - Total messages published: 497
+2025-01-08 23:34:57,282 - __main__ - [INFO] - Published message 1736359497282
+2025-01-08 23:34:57,283 - __main__ - [INFO] - Total messages published: 498
+2025-01-08 23:34:59,283 - __main__ - [INFO] - Published message 1736359499283
+2025-01-08 23:34:59,283 - __main__ - [INFO] - Total messages published: 499
+2025-01-08 23:35:01,284 - __main__ - [INFO] - Published message 1736359501283
+2025-01-08 23:35:01,284 - __main__ - [INFO] - Total messages published: 500
+2025-01-08 23:35:03,284 - __main__ - [INFO] - Published message 1736359503284
+2025-01-08 23:35:03,285 - __main__ - [INFO] - Total messages published: 501
+2025-01-08 23:35:05,285 - __main__ - [INFO] - Published message 1736359505285
+2025-01-08 23:35:05,285 - __main__ - [INFO] - Total messages published: 502
+2025-01-08 23:35:07,286 - __main__ - [INFO] - Published message 1736359507285
+2025-01-08 23:35:07,286 - __main__ - [INFO] - Total messages published: 503
+2025-01-08 23:35:09,286 - __main__ - [INFO] - Published message 1736359509286
+2025-01-08 23:35:09,286 - __main__ - [INFO] - Total messages published: 504
+2025-01-08 23:35:11,287 - __main__ - [INFO] - Published message 1736359511287
+2025-01-08 23:35:11,287 - __main__ - [INFO] - Total messages published: 505
+2025-01-08 23:35:13,287 - __main__ - [INFO] - Published message 1736359513287
+2025-01-08 23:35:13,288 - __main__ - [INFO] - Total messages published: 506
+2025-01-08 23:35:15,288 - __main__ - [INFO] - Published message 1736359515288
+2025-01-08 23:35:15,289 - __main__ - [INFO] - Total messages published: 507
+2025-01-08 23:35:17,289 - __main__ - [INFO] - Published message 1736359517289
+2025-01-08 23:35:17,290 - __main__ - [INFO] - Total messages published: 508
+2025-01-08 23:35:19,290 - __main__ - [INFO] - Published message 1736359519290
+2025-01-08 23:35:19,290 - __main__ - [INFO] - Total messages published: 509
+2025-01-08 23:35:21,291 - __main__ - [INFO] - Published message 1736359521290
+2025-01-08 23:35:21,292 - __main__ - [INFO] - Total messages published: 510
+2025-01-08 23:35:23,292 - __main__ - [INFO] - Published message 1736359523292
+2025-01-08 23:35:23,292 - __main__ - [INFO] - Total messages published: 511
+2025-01-08 23:35:25,293 - __main__ - [INFO] - Published message 1736359525293
+2025-01-08 23:35:25,293 - __main__ - [INFO] - Total messages published: 512
+2025-01-08 23:35:27,294 - __main__ - [INFO] - Published message 1736359527294
+2025-01-08 23:35:27,294 - __main__ - [INFO] - Total messages published: 513
+2025-01-08 23:35:29,294 - __main__ - [INFO] - Published message 1736359529294
+2025-01-08 23:35:29,295 - __main__ - [INFO] - Total messages published: 514
+2025-01-08 23:35:31,295 - __main__ - [INFO] - Published message 1736359531295
+2025-01-08 23:35:31,295 - __main__ - [INFO] - Total messages published: 515
+2025-01-08 23:35:33,296 - __main__ - [INFO] - Published message 1736359533296
+2025-01-08 23:35:33,296 - __main__ - [INFO] - Total messages published: 516
+2025-01-08 23:35:35,296 - __main__ - [INFO] - Published message 1736359535296
+2025-01-08 23:35:35,297 - __main__ - [INFO] - Total messages published: 517
+2025-01-08 23:35:37,297 - __main__ - [INFO] - Published message 1736359537297
+2025-01-08 23:35:37,297 - __main__ - [INFO] - Total messages published: 518
+2025-01-08 23:35:39,298 - __main__ - [INFO] - Published message 1736359539297
+2025-01-08 23:35:39,298 - __main__ - [INFO] - Total messages published: 519
+2025-01-08 23:35:41,298 - __main__ - [INFO] - Published message 1736359541298
+2025-01-08 23:35:41,298 - __main__ - [INFO] - Total messages published: 520
+2025-01-08 23:35:43,299 - __main__ - [INFO] - Published message 1736359543299
+2025-01-08 23:35:43,299 - __main__ - [INFO] - Total messages published: 521
+2025-01-08 23:35:45,300 - __main__ - [INFO] - Published message 1736359545299
+2025-01-08 23:35:45,300 - __main__ - [INFO] - Total messages published: 522
+2025-01-08 23:35:47,300 - __main__ - [INFO] - Published message 1736359547300
+2025-01-08 23:35:47,300 - __main__ - [INFO] - Total messages published: 523
+2025-01-08 23:35:49,301 - __main__ - [INFO] - Published message 1736359549301
+2025-01-08 23:35:49,301 - __main__ - [INFO] - Total messages published: 524
+2025-01-08 23:35:51,302 - __main__ - [INFO] - Published message 1736359551301
+2025-01-08 23:35:51,302 - __main__ - [INFO] - Total messages published: 525
+2025-01-08 23:35:53,303 - __main__ - [INFO] - Published message 1736359553302
+2025-01-08 23:35:53,303 - __main__ - [INFO] - Total messages published: 526
+2025-01-08 23:35:55,303 - __main__ - [INFO] - Published message 1736359555303
+2025-01-08 23:35:55,303 - __main__ - [INFO] - Total messages published: 527
+2025-01-08 23:35:57,304 - __main__ - [INFO] - Published message 1736359557304
+2025-01-08 23:35:57,304 - __main__ - [INFO] - Total messages published: 528
+2025-01-08 23:35:59,305 - __main__ - [INFO] - Published message 1736359559304
+2025-01-08 23:35:59,305 - __main__ - [INFO] - Total messages published: 529
+2025-01-08 23:36:01,305 - __main__ - [INFO] - Published message 1736359561305
+2025-01-08 23:36:01,305 - __main__ - [INFO] - Total messages published: 530
+2025-01-08 23:36:03,306 - __main__ - [INFO] - Published message 1736359563306
+2025-01-08 23:36:03,306 - __main__ - [INFO] - Total messages published: 531
+2025-01-08 23:36:05,307 - __main__ - [INFO] - Published message 1736359565306
+2025-01-08 23:36:05,307 - __main__ - [INFO] - Total messages published: 532
+2025-01-08 23:36:07,307 - __main__ - [INFO] - Published message 1736359567307
+2025-01-08 23:36:07,307 - __main__ - [INFO] - Total messages published: 533
+2025-01-08 23:36:09,308 - __main__ - [INFO] - Published message 1736359569308
+2025-01-08 23:36:09,308 - __main__ - [INFO] - Total messages published: 534
+2025-01-08 23:36:11,308 - __main__ - [INFO] - Published message 1736359571308
+2025-01-08 23:36:11,309 - __main__ - [INFO] - Total messages published: 535
+2025-01-08 23:36:13,309 - __main__ - [INFO] - Published message 1736359573309
+2025-01-08 23:36:13,309 - __main__ - [INFO] - Total messages published: 536
+2025-01-08 23:36:15,310 - __main__ - [INFO] - Published message 1736359575309
+2025-01-08 23:36:15,310 - __main__ - [INFO] - Total messages published: 537
+2025-01-08 23:36:17,311 - __main__ - [INFO] - Published message 1736359577311
+2025-01-08 23:36:17,311 - __main__ - [INFO] - Total messages published: 538
+2025-01-08 23:36:19,312 - __main__ - [INFO] - Published message 1736359579311
+2025-01-08 23:36:19,312 - __main__ - [INFO] - Total messages published: 539
+2025-01-08 23:36:21,313 - __main__ - [INFO] - Published message 1736359581312
+2025-01-08 23:36:21,313 - __main__ - [INFO] - Total messages published: 540
+2025-01-08 23:36:23,314 - __main__ - [INFO] - Published message 1736359583313
+2025-01-08 23:36:23,314 - __main__ - [INFO] - Total messages published: 541
+2025-01-08 23:36:25,315 - __main__ - [INFO] - Published message 1736359585314
+2025-01-08 23:36:25,315 - __main__ - [INFO] - Total messages published: 542
+2025-01-08 23:36:27,316 - __main__ - [INFO] - Published message 1736359587316
+2025-01-08 23:36:27,316 - __main__ - [INFO] - Total messages published: 543
+2025-01-08 23:36:29,316 - __main__ - [INFO] - Published message 1736359589316
+2025-01-08 23:36:29,317 - __main__ - [INFO] - Total messages published: 544
+2025-01-08 23:36:31,317 - __main__ - [INFO] - Published message 1736359591317
+2025-01-08 23:36:31,317 - __main__ - [INFO] - Total messages published: 545
+2025-01-08 23:36:33,318 - __main__ - [INFO] - Published message 1736359593318
+2025-01-08 23:36:33,318 - __main__ - [INFO] - Total messages published: 546
+2025-01-08 23:36:35,319 - __main__ - [INFO] - Published message 1736359595318
+2025-01-08 23:36:35,319 - __main__ - [INFO] - Total messages published: 547
+2025-01-08 23:36:37,320 - __main__ - [INFO] - Published message 1736359597319
+2025-01-08 23:36:37,320 - __main__ - [INFO] - Total messages published: 548
+2025-01-08 23:36:39,321 - __main__ - [INFO] - Published message 1736359599320
+2025-01-08 23:36:39,321 - __main__ - [INFO] - Total messages published: 549
+2025-01-08 23:36:41,321 - __main__ - [INFO] - Published message 1736359601321
+2025-01-08 23:36:41,322 - __main__ - [INFO] - Total messages published: 550
+2025-01-08 23:36:43,322 - __main__ - [INFO] - Published message 1736359603322
+2025-01-08 23:36:43,322 - __main__ - [INFO] - Total messages published: 551
+2025-01-08 23:36:45,323 - __main__ - [INFO] - Published message 1736359605323
+2025-01-08 23:36:45,323 - __main__ - [INFO] - Total messages published: 552
+2025-01-08 23:36:47,324 - __main__ - [INFO] - Published message 1736359607323
+2025-01-08 23:36:47,324 - __main__ - [INFO] - Total messages published: 553
+2025-01-08 23:36:49,325 - __main__ - [INFO] - Published message 1736359609324
+2025-01-08 23:36:49,325 - __main__ - [INFO] - Total messages published: 554
+2025-01-08 23:36:51,325 - __main__ - [INFO] - Published message 1736359611325
+2025-01-08 23:36:51,326 - __main__ - [INFO] - Total messages published: 555
+2025-01-08 23:36:53,326 - __main__ - [INFO] - Published message 1736359613326
+2025-01-08 23:36:53,326 - __main__ - [INFO] - Total messages published: 556
+2025-01-08 23:36:55,327 - __main__ - [INFO] - Published message 1736359615327
+2025-01-08 23:36:55,328 - __main__ - [INFO] - Total messages published: 557
+2025-01-08 23:36:57,328 - __main__ - [INFO] - Published message 1736359617328
+2025-01-08 23:36:57,328 - __main__ - [INFO] - Total messages published: 558
+2025-01-08 23:36:59,331 - __main__ - [INFO] - Published message 1736359619330
+2025-01-08 23:36:59,331 - __main__ - [INFO] - Total messages published: 559
+2025-01-08 23:37:01,332 - __main__ - [INFO] - Published message 1736359621331
+2025-01-08 23:37:01,332 - __main__ - [INFO] - Total messages published: 560
+2025-01-08 23:37:03,332 - __main__ - [INFO] - Published message 1736359623332
+2025-01-08 23:37:03,332 - __main__ - [INFO] - Total messages published: 561
+2025-01-08 23:37:05,333 - __main__ - [INFO] - Published message 1736359625332
+2025-01-08 23:37:05,333 - __main__ - [INFO] - Total messages published: 562
+2025-01-08 23:37:07,333 - __main__ - [INFO] - Published message 1736359627333
+2025-01-08 23:37:07,333 - __main__ - [INFO] - Total messages published: 563
+2025-01-08 23:37:09,334 - __main__ - [INFO] - Published message 1736359629334
+2025-01-08 23:37:09,334 - __main__ - [INFO] - Total messages published: 564
+2025-01-08 23:37:11,334 - __main__ - [INFO] - Published message 1736359631334
+2025-01-08 23:37:11,335 - __main__ - [INFO] - Total messages published: 565
+2025-01-08 23:37:13,335 - __main__ - [INFO] - Published message 1736359633335
+2025-01-08 23:37:13,336 - __main__ - [INFO] - Total messages published: 566
+2025-01-08 23:37:15,336 - __main__ - [INFO] - Published message 1736359635336
+2025-01-08 23:37:15,336 - __main__ - [INFO] - Total messages published: 567
+2025-01-08 23:37:17,337 - __main__ - [INFO] - Published message 1736359637337
+2025-01-08 23:37:17,337 - __main__ - [INFO] - Total messages published: 568
+2025-01-08 23:37:19,338 - __main__ - [INFO] - Published message 1736359639337
+2025-01-08 23:37:19,338 - __main__ - [INFO] - Total messages published: 569
+2025-01-08 23:37:21,339 - __main__ - [INFO] - Published message 1736359641339
+2025-01-08 23:37:21,339 - __main__ - [INFO] - Total messages published: 570
+2025-01-08 23:37:23,339 - __main__ - [INFO] - Published message 1736359643339
+2025-01-08 23:37:23,340 - __main__ - [INFO] - Total messages published: 571
+2025-01-08 23:37:25,340 - __main__ - [INFO] - Published message 1736359645340
+2025-01-08 23:37:25,340 - __main__ - [INFO] - Total messages published: 572
+2025-01-08 23:37:27,341 - __main__ - [INFO] - Published message 1736359647341
+2025-01-08 23:37:27,342 - __main__ - [INFO] - Total messages published: 573
+2025-01-08 23:37:29,343 - __main__ - [INFO] - Published message 1736359649342
+2025-01-08 23:37:29,343 - __main__ - [INFO] - Total messages published: 574
+2025-01-08 23:37:31,343 - __main__ - [INFO] - Published message 1736359651343
+2025-01-08 23:37:31,343 - __main__ - [INFO] - Total messages published: 575
+2025-01-08 23:37:33,344 - __main__ - [INFO] - Published message 1736359653344
+2025-01-08 23:37:33,344 - __main__ - [INFO] - Total messages published: 576
+2025-01-08 23:37:35,345 - __main__ - [INFO] - Published message 1736359655345
+2025-01-08 23:37:35,345 - __main__ - [INFO] - Total messages published: 577
+2025-01-08 23:37:37,345 - __main__ - [INFO] - Published message 1736359657345
+2025-01-08 23:37:37,346 - __main__ - [INFO] - Total messages published: 578
+2025-01-08 23:37:39,346 - __main__ - [INFO] - Published message 1736359659346
+2025-01-08 23:37:39,346 - __main__ - [INFO] - Total messages published: 579
+2025-01-08 23:37:41,347 - __main__ - [INFO] - Published message 1736359661347
+2025-01-08 23:37:41,347 - __main__ - [INFO] - Total messages published: 580
+2025-01-08 23:37:43,347 - __main__ - [INFO] - Published message 1736359663347
+2025-01-08 23:37:43,348 - __main__ - [INFO] - Total messages published: 581
+2025-01-08 23:37:45,348 - __main__ - [INFO] - Published message 1736359665348
+2025-01-08 23:37:45,348 - __main__ - [INFO] - Total messages published: 582
+2025-01-08 23:37:47,349 - __main__ - [INFO] - Published message 1736359667349
+2025-01-08 23:37:47,349 - __main__ - [INFO] - Total messages published: 583
+2025-01-08 23:37:49,349 - __main__ - [INFO] - Published message 1736359669349
+2025-01-08 23:37:49,350 - __main__ - [INFO] - Total messages published: 584
+2025-01-08 23:37:51,350 - __main__ - [INFO] - Published message 1736359671350
+2025-01-08 23:37:51,350 - __main__ - [INFO] - Total messages published: 585
+2025-01-08 23:37:53,351 - __main__ - [INFO] - Published message 1736359673350
+2025-01-08 23:37:53,351 - __main__ - [INFO] - Total messages published: 586
+2025-01-08 23:37:55,351 - __main__ - [INFO] - Published message 1736359675351
+2025-01-08 23:37:55,351 - __main__ - [INFO] - Total messages published: 587
+2025-01-08 23:37:57,352 - __main__ - [INFO] - Published message 1736359677352
+2025-01-08 23:37:57,352 - __main__ - [INFO] - Total messages published: 588
+2025-01-08 23:37:59,353 - __main__ - [INFO] - Published message 1736359679352
+2025-01-08 23:37:59,353 - __main__ - [INFO] - Total messages published: 589
+2025-01-08 23:38:01,353 - __main__ - [INFO] - Published message 1736359681353
+2025-01-08 23:38:01,353 - __main__ - [INFO] - Total messages published: 590
+2025-01-08 23:38:03,354 - __main__ - [INFO] - Published message 1736359683353
+2025-01-08 23:38:03,354 - __main__ - [INFO] - Total messages published: 591
+2025-01-08 23:38:05,354 - __main__ - [INFO] - Published message 1736359685354
+2025-01-08 23:38:05,354 - __main__ - [INFO] - Total messages published: 592
+2025-01-08 23:38:07,355 - __main__ - [INFO] - Published message 1736359687355
+2025-01-08 23:38:07,355 - __main__ - [INFO] - Total messages published: 593
+2025-01-08 23:38:09,356 - __main__ - [INFO] - Published message 1736359689355
+2025-01-08 23:38:09,356 - __main__ - [INFO] - Total messages published: 594
+2025-01-08 23:38:11,356 - __main__ - [INFO] - Published message 1736359691356
+2025-01-08 23:38:11,357 - __main__ - [INFO] - Total messages published: 595
+2025-01-08 23:38:13,358 - __main__ - [INFO] - Published message 1736359693357
+2025-01-08 23:38:13,358 - __main__ - [INFO] - Total messages published: 596
+2025-01-08 23:38:15,359 - __main__ - [INFO] - Published message 1736359695358
+2025-01-08 23:38:15,359 - __main__ - [INFO] - Total messages published: 597
+2025-01-08 23:38:17,359 - __main__ - [INFO] - Published message 1736359697359
+2025-01-08 23:38:17,359 - __main__ - [INFO] - Total messages published: 598
+2025-01-08 23:38:19,360 - __main__ - [INFO] - Published message 1736359699360
+2025-01-08 23:38:19,360 - __main__ - [INFO] - Total messages published: 599
+2025-01-08 23:38:21,360 - __main__ - [INFO] - Published message 1736359701360
+2025-01-08 23:38:21,361 - __main__ - [INFO] - Total messages published: 600
+2025-01-08 23:38:23,361 - __main__ - [INFO] - Published message 1736359703361
+2025-01-08 23:38:23,361 - __main__ - [INFO] - Total messages published: 601
+2025-01-08 23:38:25,362 - __main__ - [INFO] - Published message 1736359705362
+2025-01-08 23:38:25,362 - __main__ - [INFO] - Total messages published: 602
+2025-01-08 23:38:27,363 - __main__ - [INFO] - Published message 1736359707362
+2025-01-08 23:38:27,363 - __main__ - [INFO] - Total messages published: 603
+2025-01-08 23:38:29,363 - __main__ - [INFO] - Published message 1736359709363
+2025-01-08 23:38:29,364 - __main__ - [INFO] - Total messages published: 604
+2025-01-08 23:38:31,364 - __main__ - [INFO] - Published message 1736359711364
+2025-01-08 23:38:31,364 - __main__ - [INFO] - Total messages published: 605
+2025-01-08 23:38:33,365 - __main__ - [INFO] - Published message 1736359713364
+2025-01-08 23:38:33,365 - __main__ - [INFO] - Total messages published: 606
+2025-01-08 23:38:35,365 - __main__ - [INFO] - Published message 1736359715365
+2025-01-08 23:38:35,365 - __main__ - [INFO] - Total messages published: 607
+2025-01-08 23:38:37,366 - __main__ - [INFO] - Published message 1736359717366
+2025-01-08 23:38:37,366 - __main__ - [INFO] - Total messages published: 608
+2025-01-08 23:38:39,366 - __main__ - [INFO] - Published message 1736359719366
+2025-01-08 23:38:39,367 - __main__ - [INFO] - Total messages published: 609
+2025-01-08 23:38:41,367 - __main__ - [INFO] - Published message 1736359721367
+2025-01-08 23:38:41,367 - __main__ - [INFO] - Total messages published: 610
+2025-01-08 23:38:43,368 - __main__ - [INFO] - Published message 1736359723367
+2025-01-08 23:38:43,368 - __main__ - [INFO] - Total messages published: 611
+2025-01-08 23:38:45,368 - __main__ - [INFO] - Published message 1736359725368
+2025-01-08 23:38:45,369 - __main__ - [INFO] - Total messages published: 612
+2025-01-08 23:38:47,369 - __main__ - [INFO] - Published message 1736359727369
+2025-01-08 23:38:47,369 - __main__ - [INFO] - Total messages published: 613
+2025-01-08 23:38:49,370 - __main__ - [INFO] - Published message 1736359729370
+2025-01-08 23:38:49,370 - __main__ - [INFO] - Total messages published: 614
+2025-01-08 23:38:51,370 - __main__ - [INFO] - Published message 1736359731370
+2025-01-08 23:38:51,370 - __main__ - [INFO] - Total messages published: 615
+2025-01-08 23:38:53,371 - __main__ - [INFO] - Published message 1736359733371
+2025-01-08 23:38:53,371 - __main__ - [INFO] - Total messages published: 616
+2025-01-08 23:38:55,371 - __main__ - [INFO] - Published message 1736359735371
+2025-01-08 23:38:55,372 - __main__ - [INFO] - Total messages published: 617
+2025-01-08 23:38:57,372 - __main__ - [INFO] - Published message 1736359737372
+2025-01-08 23:38:57,372 - __main__ - [INFO] - Total messages published: 618
+2025-01-08 23:38:59,373 - __main__ - [INFO] - Published message 1736359739373
+2025-01-08 23:38:59,373 - __main__ - [INFO] - Total messages published: 619
+2025-01-08 23:39:01,373 - __main__ - [INFO] - Published message 1736359741373
+2025-01-08 23:39:01,374 - __main__ - [INFO] - Total messages published: 620
+2025-01-08 23:39:03,374 - __main__ - [INFO] - Published message 1736359743374
+2025-01-08 23:39:03,374 - __main__ - [INFO] - Total messages published: 621
+2025-01-08 23:39:05,375 - __main__ - [INFO] - Published message 1736359745374
+2025-01-08 23:39:05,375 - __main__ - [INFO] - Total messages published: 622
+2025-01-08 23:39:07,375 - __main__ - [INFO] - Published message 1736359747375
+2025-01-08 23:39:07,376 - __main__ - [INFO] - Total messages published: 623
+2025-01-08 23:39:09,376 - __main__ - [INFO] - Published message 1736359749376
+2025-01-08 23:39:09,376 - __main__ - [INFO] - Total messages published: 624
+2025-01-08 23:39:11,377 - __main__ - [INFO] - Published message 1736359751377
+2025-01-08 23:39:11,377 - __main__ - [INFO] - Total messages published: 625
+2025-01-08 23:39:13,377 - __main__ - [INFO] - Published message 1736359753377
+2025-01-08 23:39:13,378 - __main__ - [INFO] - Total messages published: 626
+2025-01-08 23:39:15,378 - __main__ - [INFO] - Published message 1736359755378
+2025-01-08 23:39:15,378 - __main__ - [INFO] - Total messages published: 627
+2025-01-08 23:39:17,379 - __main__ - [INFO] - Published message 1736359757378
+2025-01-08 23:39:17,379 - __main__ - [INFO] - Total messages published: 628
+2025-01-08 23:39:19,379 - __main__ - [INFO] - Published message 1736359759379
+2025-01-08 23:39:19,379 - __main__ - [INFO] - Total messages published: 629
+2025-01-08 23:39:21,380 - __main__ - [INFO] - Published message 1736359761380
+2025-01-08 23:39:21,380 - __main__ - [INFO] - Total messages published: 630
+2025-01-08 23:39:23,381 - __main__ - [INFO] - Published message 1736359763380
+2025-01-08 23:39:23,381 - __main__ - [INFO] - Total messages published: 631
+2025-01-08 23:39:25,381 - __main__ - [INFO] - Published message 1736359765381
+2025-01-08 23:39:25,381 - __main__ - [INFO] - Total messages published: 632
+2025-01-08 23:39:27,382 - __main__ - [INFO] - Published message 1736359767382
+2025-01-08 23:39:27,382 - __main__ - [INFO] - Total messages published: 633
+2025-01-08 23:39:29,383 - __main__ - [INFO] - Published message 1736359769383
+2025-01-08 23:39:29,383 - __main__ - [INFO] - Total messages published: 634
+2025-01-08 23:39:31,384 - __main__ - [INFO] - Published message 1736359771383
+2025-01-08 23:39:31,384 - __main__ - [INFO] - Total messages published: 635
+2025-01-08 23:39:33,384 - __main__ - [INFO] - Published message 1736359773384
+2025-01-08 23:39:33,385 - __main__ - [INFO] - Total messages published: 636
+2025-01-08 23:39:35,385 - __main__ - [INFO] - Published message 1736359775385
+2025-01-08 23:39:35,386 - __main__ - [INFO] - Total messages published: 637
+2025-01-08 23:39:37,387 - __main__ - [INFO] - Published message 1736359777386
+2025-01-08 23:39:37,387 - __main__ - [INFO] - Total messages published: 638
+2025-01-08 23:39:39,387 - __main__ - [INFO] - Published message 1736359779387
+2025-01-08 23:39:39,388 - __main__ - [INFO] - Total messages published: 639
+2025-01-08 23:39:41,388 - __main__ - [INFO] - Published message 1736359781388
+2025-01-08 23:39:41,388 - __main__ - [INFO] - Total messages published: 640
+2025-01-08 23:39:43,389 - __main__ - [INFO] - Published message 1736359783389
+2025-01-08 23:39:43,390 - __main__ - [INFO] - Total messages published: 641
+2025-01-08 23:39:45,390 - __main__ - [INFO] - Published message 1736359785390
+2025-01-08 23:39:45,390 - __main__ - [INFO] - Total messages published: 642
+2025-01-08 23:39:47,391 - __main__ - [INFO] - Published message 1736359787391
+2025-01-08 23:39:47,392 - __main__ - [INFO] - Total messages published: 643
+2025-01-08 23:39:49,392 - __main__ - [INFO] - Published message 1736359789392
+2025-01-08 23:39:49,393 - __main__ - [INFO] - Total messages published: 644
+2025-01-08 23:39:51,393 - __main__ - [INFO] - Published message 1736359791393
+2025-01-08 23:39:51,394 - __main__ - [INFO] - Total messages published: 645
+2025-01-08 23:39:53,394 - __main__ - [INFO] - Published message 1736359793394
+2025-01-08 23:39:53,395 - __main__ - [INFO] - Total messages published: 646
+2025-01-08 23:39:55,395 - __main__ - [INFO] - Published message 1736359795395
+2025-01-08 23:39:55,396 - __main__ - [INFO] - Total messages published: 647
+2025-01-08 23:39:57,396 - __main__ - [INFO] - Published message 1736359797396
+2025-01-08 23:39:57,396 - __main__ - [INFO] - Total messages published: 648
+2025-01-08 23:39:59,397 - __main__ - [INFO] - Published message 1736359799397
+2025-01-08 23:39:59,397 - __main__ - [INFO] - Total messages published: 649
+2025-01-08 23:40:01,399 - __main__ - [INFO] - Published message 1736359801398
+2025-01-08 23:40:01,399 - __main__ - [INFO] - Total messages published: 650
+2025-01-08 23:40:03,401 - __main__ - [INFO] - Published message 1736359803400
+2025-01-08 23:40:03,401 - __main__ - [INFO] - Total messages published: 651
+2025-01-08 23:40:05,402 - __main__ - [INFO] - Published message 1736359805402
+2025-01-08 23:40:05,402 - __main__ - [INFO] - Total messages published: 652
+2025-01-08 23:40:07,403 - __main__ - [INFO] - Published message 1736359807403
+2025-01-08 23:40:07,403 - __main__ - [INFO] - Total messages published: 653
+2025-01-08 23:40:09,404 - __main__ - [INFO] - Published message 1736359809404
+2025-01-08 23:40:09,404 - __main__ - [INFO] - Total messages published: 654
+2025-01-08 23:40:11,405 - __main__ - [INFO] - Published message 1736359811405
+2025-01-08 23:40:11,405 - __main__ - [INFO] - Total messages published: 655
+2025-01-08 23:40:13,406 - __main__ - [INFO] - Published message 1736359813405
+2025-01-08 23:40:13,406 - __main__ - [INFO] - Total messages published: 656
+2025-01-08 23:40:15,407 - __main__ - [INFO] - Published message 1736359815406
+2025-01-08 23:40:15,407 - __main__ - [INFO] - Total messages published: 657
+2025-01-08 23:40:17,407 - __main__ - [INFO] - Published message 1736359817407
+2025-01-08 23:40:17,407 - __main__ - [INFO] - Total messages published: 658
+2025-01-08 23:40:19,408 - __main__ - [INFO] - Published message 1736359819408
+2025-01-08 23:40:19,408 - __main__ - [INFO] - Total messages published: 659
+2025-01-08 23:40:21,409 - __main__ - [INFO] - Published message 1736359821408
+2025-01-08 23:40:21,409 - __main__ - [INFO] - Total messages published: 660
+2025-01-08 23:40:23,410 - __main__ - [INFO] - Published message 1736359823409
+2025-01-08 23:40:23,410 - __main__ - [INFO] - Total messages published: 661
+2025-01-08 23:40:25,411 - __main__ - [INFO] - Published message 1736359825410
+2025-01-08 23:40:25,411 - __main__ - [INFO] - Total messages published: 662
+2025-01-08 23:40:27,412 - __main__ - [INFO] - Published message 1736359827411
+2025-01-08 23:40:27,412 - __main__ - [INFO] - Total messages published: 663
+2025-01-08 23:40:29,413 - __main__ - [INFO] - Published message 1736359829412
+2025-01-08 23:40:29,413 - __main__ - [INFO] - Total messages published: 664
+2025-01-08 23:40:31,414 - __main__ - [INFO] - Published message 1736359831413
+2025-01-08 23:40:31,414 - __main__ - [INFO] - Total messages published: 665
+2025-01-08 23:40:33,415 - __main__ - [INFO] - Published message 1736359833414
+2025-01-08 23:40:33,415 - __main__ - [INFO] - Total messages published: 666
+2025-01-08 23:40:35,415 - __main__ - [INFO] - Published message 1736359835415
+2025-01-08 23:40:35,415 - __main__ - [INFO] - Total messages published: 667
+2025-01-08 23:40:37,416 - __main__ - [INFO] - Published message 1736359837416
+2025-01-08 23:40:37,416 - __main__ - [INFO] - Total messages published: 668
+2025-01-08 23:40:39,417 - __main__ - [INFO] - Published message 1736359839417
+2025-01-08 23:40:39,417 - __main__ - [INFO] - Total messages published: 669
+2025-01-08 23:40:41,418 - __main__ - [INFO] - Published message 1736359841417
+2025-01-08 23:40:41,418 - __main__ - [INFO] - Total messages published: 670
+2025-01-08 23:40:43,419 - __main__ - [INFO] - Published message 1736359843418
+2025-01-08 23:40:43,420 - __main__ - [INFO] - Total messages published: 671
+2025-01-08 23:40:45,420 - __main__ - [INFO] - Published message 1736359845420
+2025-01-08 23:40:45,421 - __main__ - [INFO] - Total messages published: 672
+2025-01-08 23:40:47,421 - __main__ - [INFO] - Published message 1736359847421
+2025-01-08 23:40:47,422 - __main__ - [INFO] - Total messages published: 673
+2025-01-08 23:40:49,422 - __main__ - [INFO] - Published message 1736359849422
+2025-01-08 23:40:49,423 - __main__ - [INFO] - Total messages published: 674
+2025-01-08 23:40:51,424 - __main__ - [INFO] - Published message 1736359851423
+2025-01-08 23:40:51,424 - __main__ - [INFO] - Total messages published: 675
+2025-01-08 23:40:53,425 - __main__ - [INFO] - Published message 1736359853424
+2025-01-08 23:40:53,425 - __main__ - [INFO] - Total messages published: 676
+2025-01-08 23:40:55,426 - __main__ - [INFO] - Published message 1736359855426
+2025-01-08 23:40:55,426 - __main__ - [INFO] - Total messages published: 677
+2025-01-08 23:40:56,475 - __main__ - [INFO] - Stopping publisher. Total messages sent: 677
